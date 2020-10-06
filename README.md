@@ -46,7 +46,9 @@ As a work item owner, you will have the following responsibilities:
   summary of events.
 - Commitment to timelines and scope of deliverables and/or meetings, and being
   proactive in communications to the chairs and the group upon any changes to
-  these.
+  these. Changes to the work item are made and approved in the same Pull
+  Request process described above, except the PR should contain changes to the
+  work item markdown file instead of adding a new one.
 
 ## Types of working items
 We informally recognize a few main formats for work items and recommend the
