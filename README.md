@@ -19,7 +19,8 @@ for broad adoption around Claim & Credential processes within SSI.
 3. In the project directory on your local machine, copy
    `templates/work_item.md` into lowercase snakecase "short name" for your work
    item in `work_items/`. For example, `cp templates/work_item.md
-   work_items/credential_revocation.md`
+   work_items/credential_revocation.md`. Add your work item to the list of
+   active work items in `work_items/README.md`.
 4. Populate your work item by completing all the sections in the template,
    including answering all the questions.
 5. Commit your changes locally and push to your GitHub account's fork of this
