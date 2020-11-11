@@ -33,8 +33,50 @@ Password: 880986,
 
 </details>
 
+## Meeting - 21 Nov 2020 - (1500 ET) [recording]() 
+ 
+### Agenda
 
-## Meeting - 26 Oct 2020 - (1400 ET) [recording]() 
+1. Welcome and introductions
+2. C&C WG participation tracking
+3. Agenda creation/review/prioritization
+
+## Meeting - 03 Nov 2020 - (1500 ET) [recording](https://us02web.zoom.us/rec/share/3IYGkxbiCJG9acGTsoie_TQYWu8nKacNUcHEZPFx6yyMTjgp4-R_LsrE4SODrlAF.5dwcWpUCRYgI0BAs) 
+ 
+### Agenda
+
+1. Welcome and introductions
+2. C&C WG participation tracking
+3. Agenda creation/review/prioritization
+4. Affinidi Core SDK and industry-specific schema presentation by @Kamal Laungani (Affinidi).
+5. [All] IIW recap (in relation to C&C)
+6.  Workitem Status: Presentation Exchange
+7. Talk about starting up Credentials Manifest calls
+8.  Outlook / Next Steps (edited) 
+
+### Recap
+- Introduction Kamal from Affinidi
+- IPR Reminder
+- New Agenda Point: Credential Manifest next steps
+- Affinidi [Core SDK](https://github.com/affinityproject/affinidi-core-sdk) and [industry-specific schema](https://docs.affinidi.com/schemas/getting-started/) presentation by @Kamal Laungani (Affinidi).
+- [IIW Recap]:
+    - Gabe: Hosted Session on Revocation @Workday. Contribute to DIF. Link to previous presentation at DIF.
+    - Stephen: Talk about future Revocation Mechansims for Aries/Indy 
+    - Wayne: Presentation Exchange. Convergance of many standards with similar goals (OpenID Connect Credentials Profile: Verifiable Credential as Identity Token.). DID for generating Identity Token(?). SIOP. WebID. How to extend browser capabilities with a key-based credentialing system. (Overlap to Chapi) GNAP: "OAuth3".
+    - Daniel: 2-3 new envelope formats. PE importance grows.
+- Presentation Exchange Status:
+    - 2 PRs: 
+        - 1. Multiple Schema identifiers
+        - 2. Holder Binding between credentials
+    - Editoral side wrapping up
+    - Test Vectors after a 1.0 Draft version
+- Workitem Credential Manifest
+    - Reuse existing Presentation Exchange call time and shift focus towards Credential Manifest.
+    - Review Daniel Status
+    - First Meeting next Thursday
+
+
+## Meeting - 26 Oct 2020 - (1500 ET)
  
 ### Agenda
 
