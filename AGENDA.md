@@ -33,13 +33,24 @@ Password: 880986,
 
 </details>
 
-## Meeting - 21 Nov 2020 - (1500 ET) [recording]() 
+## Meeting - 17 Nov 2020 - (1500 ET) [recording]() 
  
 ### Agenda
 
 1. Welcome and introductions
 2. C&C WG participation tracking
 3. Agenda creation/review/prioritization
+4. Bloom Presentation: [The Wallet Credential Interactions Spec Proposal](https://specs.bloom.co/) by Jace Hensley
+5. Next steps: Credential Schemas (e.g. Affinidi & others)
+6. Workitem Status: Presentation Exchange
+    - Go Implementation Workday
+    - JSONPath / Ontology Discussion Recap
+    - Open Issues
+7. Workitem Status: Credentials Manifest calls
+8. Outlook / Next Steps 
+
+### Recap
+- 
 
 ## Meeting - 03 Nov 2020 - (1500 ET) [recording](https://us02web.zoom.us/rec/share/3IYGkxbiCJG9acGTsoie_TQYWu8nKacNUcHEZPFx6yyMTjgp4-R_LsrE4SODrlAF.5dwcWpUCRYgI0BAs) 
  
@@ -50,9 +61,9 @@ Password: 880986,
 3. Agenda creation/review/prioritization
 4. Affinidi Core SDK and industry-specific schema presentation by @Kamal Laungani (Affinidi).
 5. [All] IIW recap (in relation to C&C)
-6.  Workitem Status: Presentation Exchange
+6. Workitem Status: Presentation Exchange
 7. Talk about starting up Credentials Manifest calls
-8.  Outlook / Next Steps (edited) 
+8. Outlook / Next Steps (edited) 
 
 ### Recap
 - Introduction Kamal from Affinidi
