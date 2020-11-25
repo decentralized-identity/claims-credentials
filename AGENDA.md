@@ -33,24 +33,31 @@ Password: 880986,
 
 </details>
 
-## Meeting - 17 Nov 2020 - (1500 ET) [recording]() 
+## Meeting - 17 Nov 2020 - (1500 ET) [recording](https://us02web.zoom.us/rec/share/urCKTB3BGpfZ6QgjbxUij6VFoT0oHdC1QECATuyaRDMw_ls3mmnRj4JHHWzD_qiS.b7uR8OhCuchu6f59) 
  
 ### Agenda
 
 1. Welcome and introductions
 2. C&C WG participation tracking
 3. Agenda creation/review/prioritization
-4. Bloom Presentation: [The Wallet Credential Interactions Spec Proposal](https://specs.bloom.co/) by Jace Hensley
+4. Bloom Presentation: [The Wallet Credential Interactions Spec Proposal](https://hellobloom.github.io/wallet-credential-interactions/) by Jace Hensley
 5. Next steps: Credential Schemas (e.g. Affinidi & others)
-6. Workitem Status: Presentation Exchange
+6. MS Status Protocol Implementation (e.g. for Credential Revocation) 
+7. Workitem Status: Presentation Exchange
     - Go Implementation Workday
     - JSONPath / Ontology Discussion Recap
     - Open Issues
-7. Workitem Status: Credentials Manifest calls
-8. Outlook / Next Steps 
+8. Workitem Status: Credentials Manifest calls
+9. Outlook / Next Steps 
 
 ### Recap
-- 
+- Intros: Jace from Bloom
+- [WACI Interaction Spec (WAKEE)](https://hellobloom.github.io/wallet-credential-interactions/)
+- Discussion around Credential Schema and Ontology for JWT AND JSON-LD Contexts.
+- Setup reusable artifacts to build ontologys, like template repositories. (e.g. base definition of spec and how to build novel ontologies from there). Example citizenship ontology. Generation as a npm package. Best practices. Reuse of existing URI.
+Action: Martin Setup concrete next steps for the next C&C meeting.
+- Presentation Daniel Buchner: Hash Field Status List. Privacy extensions to the bitstring recovcation list concept.
+- Workitem Status for PE & CM on Thursday.
 
 ## Meeting - 03 Nov 2020 - (1500 ET) [recording](https://us02web.zoom.us/rec/share/3IYGkxbiCJG9acGTsoie_TQYWu8nKacNUcHEZPFx6yyMTjgp4-R_LsrE4SODrlAF.5dwcWpUCRYgI0BAs) 
  
