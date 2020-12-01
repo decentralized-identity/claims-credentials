@@ -45,9 +45,8 @@ Password: 880986,
     - Credential Manifest
     - VC Marketplace
     - DIF-Managed Credential Ontology and Tooling
-5. MS Status Protocol Implementation (e.g. for Credential Revocation) 
-6. Workitem Status: Presentation Exchange
-7. Outlook / Next Steps 
+5. Workitem Status: Presentation Exchange
+6. Outlook / Next Steps 
 
 ### Recap
 
