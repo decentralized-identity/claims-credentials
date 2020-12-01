@@ -49,6 +49,14 @@ Password: 880986,
 6. Outlook / Next Steps 
 
 ### Recap
+1. Introductions
+2. Update Jace around [WACI](https://github.com/hellobloom/wallet-credential-interactions/pull/5)
+3. Workitems:
+- Inform about VC Marketplace Workitem: Candidates:
+    - In addition to existing: KILT, Civic
+- Credential Ontology and Tooling: What should the output to the group be: JSON Schemas, JSON-LD Contexts, Overlab with CCG Vocubulary. Workitem + Affinidi. Getting people at the table. 
+    -  Martin will setup mail.
+- Recovation Workitem TBD (discuss with Gabe.)
 
 ## Meeting - 17 Nov 2020 - (1500 ET) [recording](https://us02web.zoom.us/rec/share/urCKTB3BGpfZ6QgjbxUij6VFoT0oHdC1QECATuyaRDMw_ls3mmnRj4JHHWzD_qiS.b7uR8OhCuchu6f59) 
  
