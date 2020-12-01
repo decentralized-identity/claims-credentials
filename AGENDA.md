@@ -33,6 +33,24 @@ Password: 880986,
 
 </details>
 
+
+## Meeting - 01 Dez 2020 - (1500 ET) [recording]() 
+ 
+### Agenda
+
+1. Welcome and introductions
+2. C&C WG participation tracking
+3. Agenda creation/review/prioritization
+4. Upcoming workitem(s) (proposals):
+    - Credential Manifest
+    - VC Marketplace
+    - DIF-Managed Credential Ontology and Tooling
+5. MS Status Protocol Implementation (e.g. for Credential Revocation) 
+6. Workitem Status: Presentation Exchange
+7. Outlook / Next Steps 
+
+### Recap
+
 ## Meeting - 17 Nov 2020 - (1500 ET) [recording](https://us02web.zoom.us/rec/share/urCKTB3BGpfZ6QgjbxUij6VFoT0oHdC1QECATuyaRDMw_ls3mmnRj4JHHWzD_qiS.b7uR8OhCuchu6f59) 
  
 ### Agenda
