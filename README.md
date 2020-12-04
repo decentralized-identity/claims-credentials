@@ -5,6 +5,7 @@ for broad adoption around Claim & Credential processes within SSI.
 
 ## Resources
 - [Website](https://identity.foundation/working-groups/claims-credentials.html)
+- [Meeting minutes/agenda](https://github.com/decentralized-identity/claims-credentials/blob/main/AGENDA.md)
 - [Meeting recordings](https://docs.google.com/spreadsheets/d/1wgccmMvIImx30qVE9GhRKWWv3vmL2ZyUauuKx3IfRmA/edit#gid=1252135265)
 - The group's [Charter](https://github.com/decentralized-identity/org/blob/master/Org%20documents/WG%20documents/DIF_CC_WG_charter_v1.pdf) and [Operating Addendum](https://github.com/decentralized-identity/org/blob/master/Org%20documents/WG%20documents/DIF_CC_WG_Operating_Addendum_V1.pdf)
 - [Notion Page](https://www.notion.so/dif/Claims-and-Credentials-d236ac4366d54c76ba85c2f521c003e0): This page is used for taking meeting notes and collaborating around non-code/specification-based work items within the group. Code/specification-based work items should exist in their own repository, such as in the case of [Presentation Exchange](https://github.com/decentralized-identity/presentation-exchange).
