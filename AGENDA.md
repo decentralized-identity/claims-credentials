@@ -33,8 +33,12 @@ Password: 880986,
 
 </details>
 
+## Meeting - 15 Dez 2020 - (1500 ET) [recording]() 
+ 
+### Agenda
+TBD
 
-## Meeting - 01 Dez 2020 - (1500 ET) [recording]() 
+## Meeting - 01 Dez 2020 - (1500 ET) [recording](https://us02web.zoom.us/rec/share/oYWkjaRdSHdYPBe4Fjs5fyD0PX3I2OFqVxelNw3oi9abdn6HfW8oS7ICnZWro6HO.EDdnKvrLtOhIUquF) 
  
 ### Agenda
 
