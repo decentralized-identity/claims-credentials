@@ -36,7 +36,18 @@ Password: 880986,
 ## Meeting - 15 Dez 2020 - (1500 ET) [recording]() 
  
 ### Agenda
-TBD
+1. Welcome and introductions
+2. C&C WG participation tracking
+3. Agenda creation/review/prioritization
+4. Workitem Proposal Review:
+    - Credential Manifest (Kickoff on 12/17)
+    - VC Marketplace
+5. Workitem Status: Presentation Exchange
+    - Blog Article around the PE 1.0 Release
+6. Possible Future Workitems:
+    - Credential Schemas and Ontologys
+    - Credential Revocation
+6. Outlook / Next Steps 
 
 ## Meeting - 01 Dez 2020 - (1500 ET) [recording](https://us02web.zoom.us/rec/share/oYWkjaRdSHdYPBe4Fjs5fyD0PX3I2OFqVxelNw3oi9abdn6HfW8oS7ICnZWro6HO.EDdnKvrLtOhIUquF) 
  
