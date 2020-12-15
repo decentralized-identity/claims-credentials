@@ -43,11 +43,35 @@ Password: 880986,
     - [Credential Manifest](https://github.com/decentralized-identity/claims-credentials/pull/2) (Kickoff on 12/17)
     - [VC Marketplace](https://github.com/decentralized-identity/claims-credentials/pull/1)
 5. Workitem Status: Presentation Exchange
-    - Blog Article around the PE 1.0 Release
+    - Blog Article around the PE 0.1.0 Release
 6. Possible Future Workitems:
     - Credential Schemas and Ontologys
     - Credential Revocation
 7. Outlook / Next Steps 
+
+### Recap
+#### Status PE
+- Closing last issues for an official 0.1.0 transition
+- Please raise last-minute issues in person on Thursdays weekly meetings
+
+#### Workitem Proposal Review:
+1. [Credential Manifest](https://github.com/decentralized-identity/claims-credentials/pull/2) (Kickoff on 12/17)
+- Credential Manifest Specification is in unchanged "Strawman" Status since the beginning of the year. Focus has been on the Presentation Exchange workitem.
+- With the release of PE 0.1.0 specification, we are "relaunching" the CM spec into official C&C workitem status
+- Thursday PE Meetings will transition into regular CM Meeting Specifications
+- 7-day objection period for workitem from today's meeting
+2. [VC Marketplace](https://github.com/decentralized-identity/claims-credentials/pull/1)
+- Foused on Use Cases (Outcome is not a specification, but User Journeys)
+- Example Use Case:
+    - Incentives for the Credential Ecosystem: How can a Marketplace create natural incentive layers for issuing and exchanging verifiable credentials.
+    - How can Marketplace layer accelerate the interoperability between different "identity networks"
+- Specification will likely generate requirements for existing specs like Presentation Exchange or Credential Manifest
+- 7-day objection period for workitem from today's meeting
+#### Open Discussion
+- Aries RFCs and their Integration of PE and CM specifications.
+- Aries-GO plans full support of BBS+ and PE and the end of Q1/2021
+- Kunal: Status on Schema Work: Martin will reach out.
+
 
 ## Meeting - 01 Dez 2020 - (1500 ET) [recording](https://us02web.zoom.us/rec/share/oYWkjaRdSHdYPBe4Fjs5fyD0PX3I2OFqVxelNw3oi9abdn6HfW8oS7ICnZWro6HO.EDdnKvrLtOhIUquF) 
  
