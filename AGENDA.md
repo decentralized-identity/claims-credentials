@@ -40,8 +40,8 @@ Password: 880986,
 2. C&C WG participation tracking
 3. Agenda creation/review/prioritization
 4. Workitem Proposal Review:
-    - Credential Manifest (Kickoff on 12/17)
-    - VC Marketplace
+    - [Credential Manifest](https://github.com/decentralized-identity/claims-credentials/pull/2) (Kickoff on 12/17)
+    - [VC Marketplace](https://github.com/decentralized-identity/claims-credentials/pull/1)
 5. Workitem Status: Presentation Exchange
     - Blog Article around the PE 1.0 Release
 6. Possible Future Workitems:
