@@ -27,6 +27,7 @@ High level architecture for Verifiable Credentials Marketplace independent from 
     - Who are the issuers of credentials that I need?
     - What credentials do I need to receive service?
 - Aggregated and anonymous tracking of VC Marketplace activity
+- Privacy, security, and compliance considerations across marketplace actors
 
 The group believes that the VC Marketplace can be separated into three distinct parts around Discovery, (Credential) Exchange, and Payments. In the first iteration the group will concentrate on the Discovery aspect.
 
