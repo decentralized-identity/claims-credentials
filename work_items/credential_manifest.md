@@ -2,7 +2,7 @@
 
 ## Work Item Owners
 - Dan Buchner (@csuwildcat)
-- TBD
+- Gabe Cohen (@glcohen)
 
 ## Outcome
 **When your work item is successful, then what will have changed in the world? What
