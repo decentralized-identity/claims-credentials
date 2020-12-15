@@ -47,7 +47,7 @@ Password: 880986,
 6. Possible Future Workitems:
     - Credential Schemas and Ontologys
     - Credential Revocation
-6. Outlook / Next Steps 
+7. Outlook / Next Steps 
 
 ## Meeting - 01 Dez 2020 - (1500 ET) [recording](https://us02web.zoom.us/rec/share/oYWkjaRdSHdYPBe4Fjs5fyD0PX3I2OFqVxelNw3oi9abdn6HfW8oS7ICnZWro6HO.EDdnKvrLtOhIUquF) 
  
