@@ -43,7 +43,7 @@ Password: 880986,
     - [Credential Manifest](https://github.com/decentralized-identity/claims-credentials/blob/main/work_items/credential_manifest.md)
     `Weekly Thu 1PM EST`
     - [VC Marketplace](https://github.com/decentralized-identity/claims-credentials/blob/main/work_items/vc_marketplace.md)
-    `Weekly Tue 1PM EST`
+    `Weekly Tue 8AM EST`
 5. Workitem Status: Presentation Exchange
     ```
     Comments on the Draft are welcome through 03:59 UTC/GMT on 2021-01-22 (23:59 Boston time on 2021-01-22) and should be provided as issues raised on the specification’s GitHub repository.
