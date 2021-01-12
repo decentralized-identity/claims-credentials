@@ -33,6 +33,30 @@ Password: 880986,
 
 </details>
 
+## Meeting - 12 Jan 2021 - (1500 ET) [recording]() 
+ 
+### Agenda
+1. Welcome and introductions
+2. C&C WG participation tracking
+3. Agenda creation/review/prioritization
+4. Accepted WorkItems:
+    - [Credential Manifest](https://github.com/decentralized-identity/claims-credentials/blob/main/work_items/credential_manifest.md)
+    `Weekly Thu 1PM EST`
+    - [VC Marketplace](https://github.com/decentralized-identity/claims-credentials/blob/main/work_items/vc_marketplace.md)
+    `Weekly Tue 1PM EST`
+5. Workitem Status: Presentation Exchange
+    ```
+    Comments on the Draft are welcome through 03:59 UTC/GMT on 2021-01-22 (23:59 Boston time on 2021-01-22) and should be provided as issues raised on the specification’s GitHub repository.
+    ```
+6. Workitem Status: Credential Manifest
+7. Workitem Status: VC Marketplace
+8. DIF F2F - Group Presentation
+    - WorkItem Presentation: PE, CM, Marketplace
+    - Community Feedback
+9. Outlook / Next Steps 
+
+### Recap
+
 ## Meeting - 15 Dez 2020 - (1500 ET) [recording]() 
  
 ### Agenda
