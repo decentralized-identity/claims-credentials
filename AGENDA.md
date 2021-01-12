@@ -39,23 +39,26 @@ Password: 880986,
 1. Welcome and introductions
 2. C&C WG participation tracking
 3. Agenda creation/review/prioritization
-4. Accepted WorkItems:
+4. Presentation by Alexander Yenkalov (Spherity)
+5. Accepted WorkItems:
     - [Credential Manifest](https://github.com/decentralized-identity/claims-credentials/blob/main/work_items/credential_manifest.md)
     `Weekly Thu 1PM EST`
     - [VC Marketplace](https://github.com/decentralized-identity/claims-credentials/blob/main/work_items/vc_marketplace.md)
     `Weekly Tue 8AM EST`
-5. Workitem Status: Presentation Exchange
+6. Workitem Status: Presentation Exchange
     ```
     Comments on the Draft are welcome through 03:59 UTC/GMT on 2021-01-22 (23:59 Boston time on 2021-01-22) and should be provided as issues raised on the specification’s GitHub repository.
     ```
-6. Workitem Status: Credential Manifest
-7. Workitem Status: VC Marketplace
-8. DIF F2F - Group Presentation
+7. Workitem Status: Credential Manifest
+8. Workitem Status: VC Marketplace
+9. DIF F2F - Group Presentation
     - WorkItem Presentation: PE, CM, Marketplace
     - Community Feedback
-9. Outlook / Next Steps 
+10. Outlook / Next Steps 
 
 ### Recap
+- Alexander of Spherity introduces Revocation Method:
+https://docs.google.com/document/d/1ArGkOQQUTPgdTpehbhcUU8N5O3enW81qQYwGxxaNTiI/edit
 
 ## Meeting - 15 Dez 2020 - (1500 ET) [recording]() 
  
