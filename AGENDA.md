@@ -33,7 +33,27 @@ Password: 880986,
 
 </details>
 
-## Meeting - 12 Jan 2021 - (1500 ET) [recording]() 
+## Meeting - 10 Feb 2021 - (1500 ET) [recording]() 
+ 
+### Agenda
+1. Welcome and introductions
+2. C&C WG participation tracking
+3. Agenda creation/review/prioritization
+4. Chair Appointment for the replacement of Gabe Cohen:
+- Current proposal is Daniel McGrogan (Workday)
+- Introduction: Daniel 
+- Feedback & Confirmation
+5. Update Meeting Time Schedule: Proposal Mo,
+6. Workitem Status: Presentation Exchange
+7. Workitem Status: Credential Manifest
+8. Workitem Status: VC Marketplace (Martin)
+9. Repo Introduction: [Schema Forms](https://identity.foundation/schema-forms/):
+10. Outlook / Next Steps 
+
+### Recap
+
+
+## Meeting - 12 Jan 2021 - (1500 ET) [recording](https://us02web.zoom.us/rec/share/FyC37745K2NO0X7hSoxSezJfgaBjELK5N1_frnjtRnSvZzIVyFkpgIFYP5_S36xB.gDiY5tOFsTWNygq9) 
  
 ### Agenda
 1. Welcome and introductions
