@@ -33,7 +33,10 @@ Password: 880986,
 
 </details>
 
-## Meeting - 10 Feb 2021 - (1500 ET) [recording]() 
+## Meeting - 22 Feb 2021 - (1300 ET) [recording]() 
+
+
+## Meeting - 9 Feb 2021 - (1500 ET) [recording]() 
  
 ### Agenda
 1. Welcome and introductions
@@ -43,14 +46,30 @@ Password: 880986,
 - Current proposal is Daniel McGrogan (Workday)
 - Introduction: Daniel 
 - Feedback & Confirmation
-5. Update Meeting Time Schedule: Proposal Mo,
+5. Update Meeting Time Schedule: Proposal Biweekly Mo, 1300 ET
 6. Workitem Status: Presentation Exchange
 7. Workitem Status: Credential Manifest
 8. Workitem Status: VC Marketplace (Martin)
-9. Repo Introduction: [Schema Forms](https://identity.foundation/schema-forms/):
+9. Repo Introduction: [Schema Forms](https://github.com/decentralized-identity/schema-forms):
 10. Outlook / Next Steps 
 
 ### Recap
+3. No other agenda points
+4. C&C Chair Proposal: Daniel McGrogan (Workday)
+- Met some community members at RWOT in Prague
+- Workday is looking for a practical and scalable solution around identifiers and VCs.
+- Focus on Expressibility of Credentials and Formats that allow for a richer Identity Ecosystem.
+5. Next Meeting 2/22, Mo, 1300 ET
+6. From Thursday: Workgroup Approved Draft. Implementation Commitments:
+- MS
+- Workday
+- Aries-Go
+- DIDKit (Rust)
+Brent has a big editorial PR left. Clarification around what the SPEC does not provide.
+7. First Review of the existing Strawman Features. 
+8. Several Worflows provided by Affinidi Civic and Consensys. See [VC Marketplace Repo](https://github.com/decentralized-identity/vc-marketplace/blob/main/use_cases.md)
+9. Daniel present UIs that can be dynamically generated from JSON Schemas. 
+
 
 
 ## Meeting - 12 Jan 2021 - (1500 ET) [recording](https://us02web.zoom.us/rec/share/FyC37745K2NO0X7hSoxSezJfgaBjELK5N1_frnjtRnSvZzIVyFkpgIFYP5_S36xB.gDiY5tOFsTWNygq9) 
