@@ -42,7 +42,7 @@ Password: 880986,
 
 </details>
 
-## Meeting - 22 Feb 2021 - (1300 ET) [recording]() 
+## Meeting - 22 Feb 2021 - (1300 ET) [recording](https://zoom.us/rec/share/-ZUlCa3f6mJIYYGTyHCHdKQwJqPAeaa80SIaqPEPyE1_UAbfi1mhsE2L8Vyr_u77) 
 1. Welcome and introductions
 2. C&C WG chair nomination successful
 3. Workitem Status: Presentation Exchange
@@ -50,7 +50,7 @@ Password: 880986,
 5. Workitem Status: VC Marketplace (Martin, Preliminary Results)
 6. Outlook / Next Steps 
 
-## Meeting - 9 Feb 2021 - (1500 ET) [recording]() 
+## Meeting - 9 Feb 2021 - (1500 ET) [recording](https://us02web.zoom.us/rec/share/P6RSf224ZaAj8nEiE2JWNeAGCquzdlEHQKw3SpVO0KeNOBq6xyHYKdXyqzZ-S_wE.j17-kOkb4tgak51C) 
  
 ### Agenda
 1. Welcome and introductions
