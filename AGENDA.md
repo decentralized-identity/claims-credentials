@@ -42,6 +42,21 @@ Password: 880986,
 
 </details>
 
+## Meeting - 8 Mar 2021 - (1300 ET) Recording To Follow
+1. Welcome and introductions
+2. Workitem Status: Presentation Exchange
+- Ratification of 1.0.0
+- All issues closed
+- Submit to the Steering Committee (Daniel Buckner)
+3. Workitem Status: Credential Manifest
+- Extract Styling Spec (Daniel Buckner)
+4. Workitem Status: VC Marketplace
+- How will the VCM handle registration crawling (Martin)
+5. LDAP VC method status 
+- https://github.com/Spherity/vc-status-2021-ldap/
+- https://spherity.github.io/vc-status-2021-ldap/
+6. Outlook / Next Steps
+
 ## Meeting - 22 Feb 2021 - (1300 ET) [recording](https://zoom.us/rec/share/-ZUlCa3f6mJIYYGTyHCHdKQwJqPAeaa80SIaqPEPyE1_UAbfi1mhsE2L8Vyr_u77) 
 1. Welcome and introductions
 2. C&C WG chair nomination successful
