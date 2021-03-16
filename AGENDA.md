@@ -117,6 +117,7 @@ Password: 880986,
 1. Welcome and introductions
 2. Workitem Status: Presentation Exchange
 - Ratification of 1.0.0
+- All issues closed
 - Submit to the Steering Committee (Daniel Buchner)
 3. Workitem Status: Credential Manifest
 - Extract Styling Spec (Daniel Buchner)
