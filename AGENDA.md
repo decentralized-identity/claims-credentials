@@ -47,9 +47,9 @@ Password: 880986,
 2. Workitem Status: Presentation Exchange
 - Ratification of 1.0.0
 - All issues closed
-- Submit to the Steering Committee (Daniel Buckner)
+- Submit to the Steering Committee (Daniel Buchner)
 3. Workitem Status: Credential Manifest
-- Extract Styling Spec (Daniel Buckner)
+- Extract Styling Spec (Daniel Buchner)
 4. Workitem Status: VC Marketplace
 - How will the VCM handle registration crawling (Martin)
 5. LDAP VC method status 
