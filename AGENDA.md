@@ -48,12 +48,15 @@ Password: 880986,
 - Ratification of 1.0.0: "Workgroup-approved Status"
 - Submit to the Steering Committee
 - Point to implementations: Aca-Py now has [PE implementation (Python)](https://github.com/hyperledger/aries-cloudagent-python/pull/1032), others...
+- Add Section to point to existing implementation.
 3. Workitem Status: Credential Manifest
 - Still going through some scoping / requirement engineering.
 - Biggest discussion: Should CM support to output multiple credentials.
+- Presentation of current resolutions
 4. Workitem Status: VC Marketplace
 - Moving it into Spec-up format
 - Filling the determined UC Categories with more content.
+5. Juan, quick overview [UVI](https://gataca-io.github.io/verifier-apis/) (Essiflab)
 6. Outlook / Next Steps
 
 ## Meeting - 8 Mar 2021 - (1300 ET) [recording](https://us02web.zoom.us/rec/play/AhmXTbX_CdJF87jts4D47RMM9qCPUkXa4GysW4QB98qhgXxYV0pD_sk_sHFQ5VB-FV8nLMZYkH_Rl-8J.ES8L62znM2jf3EXc)
