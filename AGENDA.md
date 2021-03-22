@@ -42,6 +42,20 @@ Password: 880986,
 
 </details>
 
+## Meeting - 22 Mar 2021 - (1300 ET) Recording To Follow
+1. Welcome and introductions
+2. Workitem Status: Presentation Exchange
+- Ratification of 1.0.0: "Workgroup-approved Status"
+- Submit to the Steering Committee
+- Point to implementations: Aca-Py now has [PE implementation (Python)](https://github.com/hyperledger/aries-cloudagent-python/pull/1032), others...
+3. Workitem Status: Credential Manifest
+- Still going through some scoping / requirement engineering.
+- Biggest discussion: Should CM support to output multiple credentials.
+4. Workitem Status: VC Marketplace
+- Moving it into Spec-up format
+- Filling the determined UC Categories with more content.
+6. Outlook / Next Steps
+
 ## Meeting - 8 Mar 2021 - (1300 ET) Recording To Follow
 1. Welcome and introductions
 2. Workitem Status: Presentation Exchange
