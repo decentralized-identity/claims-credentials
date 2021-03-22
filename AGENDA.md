@@ -42,7 +42,7 @@ Password: 880986,
 
 </details>
 
-## Meeting - 8 Mar 2021 - (1300 ET) Recording To Follow [recording](https://us02web.zoom.us/rec/play/AhmXTbX_CdJF87jts4D47RMM9qCPUkXa4GysW4QB98qhgXxYV0pD_sk_sHFQ5VB-FV8nLMZYkH_Rl-8J.ES8L62znM2jf3EXc)
+## Meeting - 8 Mar 2021 - (1300 ET) [recording](https://us02web.zoom.us/rec/play/AhmXTbX_CdJF87jts4D47RMM9qCPUkXa4GysW4QB98qhgXxYV0pD_sk_sHFQ5VB-FV8nLMZYkH_Rl-8J.ES8L62znM2jf3EXc)
 1. Welcome and introductions
 2. Workitem Status: Presentation Exchange
 - Ratification of 1.0.0
