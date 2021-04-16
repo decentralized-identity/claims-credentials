@@ -38,8 +38,9 @@ Password: 880986,
 2. Workitem Status: Presentation Exchange
 3. Workitem Status: Credential Manifest
 4. Workitem Status: VC Marketplace
-5. IIW Discussion
-6. Outlook / Next Steps
+5. MetaMask Credentials (Spruce)
+6. IIW Discussion
+7. Outlook / Next Steps
 
 
 ## Meeting - 22 Mar 2021 - (1300 ET) Recording To Follow
