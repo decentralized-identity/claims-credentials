@@ -33,6 +33,15 @@ Password: 880986,
 
 </details>
 
+## Meeting - 19 Apr 2021 - (1300 ET) Recording To Follow
+1. Welcome and introductions
+2. Workitem Status: Presentation Exchange
+3. Workitem Status: Credential Manifest
+4. Workitem Status: VC Marketplace
+5. IIW Discussion
+6. Outlook / Next Steps
+
+
 ## Meeting - 22 Mar 2021 - (1300 ET) Recording To Follow
 1. Welcome and introductions
 2. Workitem Status: Presentation Exchange
