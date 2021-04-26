@@ -22,7 +22,7 @@ We are writing a standards-track specification.
 
 - **What's the expected timeline?**
 
-We will release v0.1 for developer use by .
+We will release v0.1 for developer use by June 1 2021
 
 - **Who's the audience of your deliverables?**
 
