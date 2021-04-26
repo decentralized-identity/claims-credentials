@@ -18,7 +18,8 @@ a variety of credentials formats.
   and anything else that is instantiable and publishable in written form to a
   broader audience.**
 
-We are writing a standards-track specification, which will include a complete set of test vectors covering all messages exchanged by the protocol.
+We are writing a standards-track specification, which will include a complete
+set of test vectors covering all messages exchanged by the protocol.
 
 - **What's the expected timeline?**
 
