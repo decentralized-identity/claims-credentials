@@ -4,6 +4,8 @@
 ## Work Item Owners
 - Orie Steele (@OR13)
 - Brent Zundel (@brentzundel)
+- Jace Hensley (@JaceHensley)
+
 
 ## Outcome
 **When your work item is successful, then what will have changed in the world? What
@@ -23,17 +25,22 @@ set of test vectors covering all messages exchanged by the protocol.
 
 - **What's the expected timeline?**
 
-We will release v0.1 for developer use by June 1 2021
+We will release v0.1 for developer use by June 1 2021, then continue working toward v1.0 with timeline TBD.
+
+v0.1 is constrained to Verifiable Presentations, using Presentation Exchange data objects, DIDComm, using Aries Present Proof protocol messages, hopefully in alignment with the VC HTTP API.
+
+The scope of v1.0 will be determined by participants of the drafting group.
 
 - **Who's the audience of your deliverables?**
 
 We are writing for developers who need to ask for and exchange claims that are
-verifiable, such as Verifiable Credentials.
+verifiable, such as Verifiable Credentials expressed in a Verifiable Presentation.
 
 - **What are related resources or standards from DIF or adjacent
   organizations?**
 
-JSON-LD Signatures, JWT, DIF Presentation-Exchange, DIDComm, and WACI.
+JSON-LD Signatures, JWT, DIF Presentation-Exchange and Credential Manifest, DIDComm,
+CCG VC HTTP API, GNAP, DPoP, OIDF, SIOP, and WACI.
 
 ## Meetings
 - **Are there regular meetings? If so, when?**
@@ -62,4 +69,4 @@ mainly taken in GitHub issues.
 
 - **Who might be interested in attending?**
 
-Anyone interested in a protocol for asking for and receiving presentations.
+Anyone interested in a protocol for using credentials.
