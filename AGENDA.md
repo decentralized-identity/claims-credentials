@@ -33,6 +33,16 @@ Password: 880986,
 
 </details>
 
+## Meeting - 3 May 2021 - (1300 ET) Recording To Follow
+1. Welcome and introductions
+2. [WG Participation Tracking](https://docs.google.com/spreadsheets/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=0)
+2. New Workitem: [WACI-PEX](https://github.com/decentralized-identity/claims-credentials/pull/5)
+3. IIW32 in Review
+4. Microsoft Grant Program - Cryptosuite funding
+5. Workitem Status: PE (Maintenance) + Credential Manifest
+6. Workitem Status: VC Marketplace
+7. Outlook / Next Steps
+
 ## Meeting - 19 Apr 2021 - (1300 ET) Recording To Follow
 1. Welcome and introductions
 2. Workitem Status: Presentation Exchange
