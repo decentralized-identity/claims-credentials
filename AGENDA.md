@@ -33,6 +33,15 @@ Password: 880986,
 
 </details>
 
+## Meeting - 28th June 2021 - (1300 ET) Recording To Follow
+1. Welcome and introductions
+2. [WG Participation Tracking](https://docs.google.com/spreadsheets/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=0)
+3. Workitem Status: [WACI-PEX](https://github.com/decentralized-identity/claims-credentials/pull/5)
+4. Workitem Status: PE (Maintenance) + Credential Manifest
+5. Workitem Status: VC Marketplace
+6. PE issue-triage/discussion OIDF (date time)
+7. Outlook / Next Steps
+
 ## Meeting - 14 June 2021 - (1300 ET) Recording To Follow
 1. Welcome and introductions
 2. Update C&C meeting is now 30 mins
