@@ -39,7 +39,8 @@ Password: 880986,
 3. Workitem Status: [WACI-PEX](https://github.com/decentralized-identity/claims-credentials/pull/5)
 4. Workitem Status: PE (Maintenance) + Credential Manifest
 5. Workitem Status: VC Marketplace
-6. PE issue-triage/discussion OIDF (date time)
+6. PE issue-triage/discussion OIDF (date time) 
+    - Wednesday 1pm PT/10 CET has been proposed -- see http://bit.ly/dif-calendar 
 7. Outlook / Next Steps
 
 ## Meeting - 14 June 2021 - (1300 ET) Recording To Follow
