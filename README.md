@@ -1,7 +1,8 @@
 # DIF Claims & Credentials Working Group
 
 The Claims & Credentials Working Group exists to develop interoperable formats
-for broad adoption around Claim & Credential processes within SSI.
+for broad adoption around Claim & Credential processes within SSI 
+([Self-Sovereign Identity](https://dbpedia.org/page/Self-sovereign_identity)).
 
 ## Resources
 - [Website](https://identity.foundation/working-groups/claims-credentials.html)
