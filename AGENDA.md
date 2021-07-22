@@ -37,13 +37,16 @@ Password: 880986,
  
 </details>
 
-## Meeting - 12 July 2021 - (1300 ET) Recording To Follow
+## Meeting - 26 July 2021 - (1300 ET) Recording To Follow
 1. Welcome and Introductions
 2. [WG Participation Tracking](https://docs.google.com/spreadsheets/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=0)
 3. Workitem Status: [WACI-PEX](https://github.com/decentralized-identity/claims-credentials/pull/5)
 4. Workitem Status: PE (Maintenance) + Credential Manifest
 5. Workitem Status: VC Marketplace
-6. [Request for clarity/bibliography](https://github.com/w3c-ccg/vc-http-api/pull/208#issuecomment-870812225) from VC-HTTP-API group at CCG - how can C&C help
+6. DIF Grant #1: [Blog post](https://blog.identity.foundation/dif-grant-1-jws-test-suite/) - Discussion of scope and application process
+7. [Request for clarity/bibliography](https://github.com/w3c-ccg/vc-http-api/pull/208#issuecomment-870812225) from VC-HTTP-API group at CCG - how can C&C help
+
+## Meeting - 12 July 2021 - (1300 ET) meeting cancelled
 
 ## Meeting - 28th June 2021 - (1300 ET) [Recording](https://us02web.zoom.us/rec/share/ZocSskLpVF6FG4bLR18ZMIHNquKpB6iya1sYhfytoIRy-cpkKi36RCdT3aAO2ASM.wPhYbwGqy0-Cw10X)
 1. Welcome and introductions
