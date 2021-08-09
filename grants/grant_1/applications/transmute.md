@@ -24,6 +24,8 @@ https://github.com/OR13/GNARLY (example API with tests supporting both VC-JWT an
 - Yes
 
 ## Additional Submission Details
+### Note in the initial call for submissions the identified medium was slack
+
 As Per https://difdn.slack.com/archives/C4X50SNUX/p1626973031179000?thread_ts=1626972131.178500&cid=C4X50SNUX
 
 • https://github.com/w3c-ccg/lds-jws2020
