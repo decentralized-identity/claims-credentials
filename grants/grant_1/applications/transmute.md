@@ -22,3 +22,28 @@ https://github.com/OR13/GNARLY (example API with tests supporting both VC-JWT an
 
 ### Could you commit to this work being done by the end of 2021?
 - Yes
+
+## Additional Submission Details
+As Per https://difdn.slack.com/archives/C4X50SNUX/p1626973031179000?thread_ts=1626972131.178500&cid=C4X50SNUX
+
+• https://github.com/w3c-ccg/lds-jws2020
+Registered the did key test vectors associated with it here:
+• https://github.com/w3c/did-test-suite/blob/main/packages/did-core-test-server/suites/implementations/did-key-transmute.json#L26
+• http://did.key.transmute.industries/ (generate / resolve application/did+json for examples)
+Updating VC-JWT implementation to use that suite directly for the cases where RDF DataSet normalization is not used (VC-JWT):
+• https://github.com/transmute-industries/verifiable-data/pull/71
+here is an example of the new top level API for issuing from the same key, both a VC-JWT and an LD Proof using that suite:
+````
+const result = await verifiable.credential.create({
+    credential: {
+      ...fixtures.credential,
+      issuer: { id: fixtures.key.controller }, // make sure issuer is set correctly
+    },
+    format: ["vc", "vc-jwt"],
+    documentLoader: fixtures.documentLoader,
+    suite: new JsonWebSignature({
+      key: await JsonWebKey.from(fixtures.key as JsonWebKey2020),
+      date: fixtures.credential.issuanceDate, // make signature stable
+    }),
+  });
+```
