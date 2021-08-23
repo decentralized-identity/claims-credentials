@@ -45,6 +45,24 @@ Password: 880986,
 5. Workitem Status: PE (Maintenance) + Credential Manifest
 6. Workitem Status: VC Marketplace
 
+## Minutes
+3. DIF Grant: Orie on Holiday. Next Steps: Setup JWS Testsuite Workitem Agenda + Timeline within C&C Repo.
+5a. DIF and OIDC joined PE V2-Version:
+- Knocked down major issues
+- Overall a v2 will try to have as little breaking changes as possible
+- Timeline: First Draft Version in 2 months.
+- Application within VC-HTTP-API
+5b. Credential Manifest work currently downprioed in favor of PE v2. OIDC input around Credential Provider.
+7. Recommended Schema Set for DIF. MS requires something around this within the next two months.
+- Employment, Education, ID
+- Next Steps: Open issue within C&C to outline the Workitem.
+- What domain?
+- What dependencies to other schema platform.
+- Define extend: LD + Input Validation?
+- Reach out to DIF members that have domain expertise (e.g. Workday for Education / Employment)
+- Open Issue or PR to workitem folder. Loop in people there. (@Wayne)
+- Also review/use existing external definitions (e.g. https://schema.org/EmployeeRole)
+
 ## Meeting - 9 August 2021 - (1300 ET) Recording To Follow
 1. Welcome and Introductions
 2. [WG Participation Tracking](https://docs.google.com/spreadsheets/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=0)
