@@ -37,6 +37,14 @@ Password: 880986,
  
 </details>
 
+## Meeting - 23 August 2021 - (1300 ET) Recording To Follow
+1. Welcome and Introductions
+2. [WG Participation Tracking](https://docs.google.com/spreadsheets/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=0)
+3. DIF Grant #1: [Winner Announcement Transmute Technologies](./grants/grant_1/selection.md) + New Workitem: JWS Testsuite
+4. Workitem Status: WACI-PEX
+5. Workitem Status: PE (Maintenance) + Credential Manifest
+6. Workitem Status: VC Marketplace
+
 ## Meeting - 9 August 2021 - (1300 ET) Recording To Follow
 1. Welcome and Introductions
 2. [WG Participation Tracking](https://docs.google.com/spreadsheets/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=0)
