@@ -31,11 +31,81 @@ Password: 880986,
 * topic 2 (to be discussed on this date)
 * topic n. (tbd)
 
- 
- 
- 
- 
 </details>
+
+## Meeting - 22nd November 2021 - (1300 ET) 
+1. Welcome and Introductions
+3. Juan stepping up as C&C chair?
+5. [WG Participation Tracking](https://docs.google.com/spreadsheets/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=0)
+6. Workitem Status: JWS Test Suite [notes](https://hackmd.io/WtOeBNQfRmye7FrjYjNI3g)
+8. Workitem Status: WACI-PEX - off this week, swift progress on Issuance extension
+10. Workitem Status: PE (2.0) + Credential Manifest
+12. Verifier Universal Interface (VUI) tracking
+
+### Minutes - 22nd November 2021 - (1300 ET) [Recording]() 
+1. Welcome and Introductions
+    - Jan Lindquist: Consent Records <> VUI; working with DIF members iGrant.io, an ISO WG, and the TOIP consent/privacy WG to standardize on semantics of consent records; ESSIF-LAB context for all this work (Gataca and HCF); ETSI context on EU data sharing
+3. Juan stepping up as C&C chair?
+    - notes are 100% better with Juan here
+5. [WG Participation Tracking](https://docs.google.com/spreadsheets/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=0)
+6. Workitem Status: JWS Test Suite [notes](https://hackmd.io/WtOeBNQfRmye7FrjYjNI3g)
+8. Workitem Status: WACI-PEX - off this week, swift progress on Issuance extension
+    - Blocked by BBS+ AppCry (sig suite) and implementation (Mattr, danyam)
+        - RDF canonicalization panicking at blank nodes; blank nodes also leaky of info, in the opinion of the JWP group at AppCry WG and others (not just number of blanks against schema, but also how unique IDs are assigned to blank nodes from their k/v names)
+    - Martin: exact relationship to BBS+? Sine qua non? Brent: No, the BBS+ was always planned as the first of many ZKP profiles to be defined and targetted... other ZKPs might come soon, there are people working on the item working on/familiar with multiple ZKP systems
+    - Possibility of intermediate goal (e.g. using LD Framing without BBS+)
+10. Workitem Status: PE (2.0) + Credential Manifest
+    - OIDC input largely incorporated on PE; they're starting on CM (pre-v1) now;
+        - Martin: How much of the v2-v1 diff come from the OIDC group? Brent: I wanna say 3/4? Much of what they requested actually ended up with very few breaking/normative changes, a few MUSTs becoming SHOULDs and vice versa; also greatly informed the PE<>CM division of labor
+    - PE <> WACI still being considered/discussed
+    - CM still kinda taking shape as people bring their use-cases and requirements
+        - Martin: e.g. how static are they? cacheable? archival? mutable/dynamic?
+        - Brent: Display utility versus query-by-example-like use-cases
+12. Verifier Universal Interface (VUI) tracking
+    - shooting for beginning of January for work to continue here in C&C
+    - exact status unknown, but waiting on 100% clean-IPR before hand-off and work continuing here
+
+## Meeting - 8th November 2021 - (1300 ET) 
+1. Welcome and Introductions
+2. Wayne stepping down as C&C chair
+3. Chair Nominations
+4. [WG Participation Tracking](https://docs.google.com/spreadsheets/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=0)
+5. Workitem Status: JWS Test Suite
+6. Workitem Status: WACI-PEX
+7. Workitem Status: PE (2.0) + Credential Manifest
+8. Workitem Status: VC Marketplace
+9. Verifier Universal Interface (VUI) tracking  
+
+### Minutes - 8th November 2021 - (1300 ET) [Recording]() 
+
+1. Welcome and Introductions
+2. Wayne stepping down as C&C chair
+3. Chair Nominations - Juan Caballero (Spruce)
+    - barring objections or other nominations, the nomination has tentative WG consensus. reach out to chairs by 11/15 at the latest or ideally by 11/12 if you have concerns or other candidates for WG chair.
+5. [WG Participation Tracking](https://docs.google.com/spreadsheets/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=0)
+6. Workitem Status: JWS Test Suite (update from Juan)
+    - good progress - spruce and msft PRing in testing artefacts and vectors for both JWS signatures and full VC-JWT
+    - an upstream spec ambiguity in signature mechanics ("small s /big S" key types from the same curve) see recording for that work item or tracking issues on GH. 
+        - since this is strictly upstream and beyond scope, it will just be noted in the JWS test suite docs and a tracking issue opened to monitor for upstream progress or resolution. 
+        - possible DIF blog post explaining the ambiguity and suggesting possible resolutions (mandate normalization from the heavens?) forthcoming
+8. Workitem Status: WACI-PEX (update from Brent)
+    - draft status on the PE portion of WACI-PEx, but hit some blank-node-related roadblocks on low-level BBS+ mechanism that impeded a reference implementation being testable
+        - upstream fixes and PRs: hoping to target a future iteration of the signature suite and ref implementation thereof that resolves these glitches and ambiguities
+    - Shifting focus to issuance; PRs coming fast already
+10. Workitem Status: PE (2.0) + Credential Manifest (update from Brent)
+    - OIDF group feedback being folded into PE v2, which has entailed significant discussion and fine-tuning and implementer feedback
+    - CM also receiving feedback from implementers towards v1
+    - reminder: meeting time organically shifts between 75/25 and 25/75 timeshare between the two work items
+12. Workitem Status: VC Marketplace (update from Martin, who recently checked in with )
+    - meetings are long-since concluded
+    - the WG is going to end with a blog deliverable, which may include a DIF  blog post summarizing a longer Affinidi blog post
+14. Verifier Universal Interface (VUI) tracking 
+    - somewhat pro-forma IPR mechanics are ongoing to get clean IPR on entirity of donation (which might be the entire VUI or a subset if needed for clean IPR)
+    - Work and momentum to continue and focus on integration with other DIF specs (in partic PEx) after ESSIF-LAB spins down and work begins here Jan 2022ish
+15. Other topics
+    - possibility of other interop profiles being donated (from, say, TIP program at TOIP, or BMWi, or...); debate over hosting them in interop WG, or whether these might require IPR for ongoing work
+        - discussion ongoing at Technical Steering Committee
+
 
 ## Meeting - 13 Sept 2021 - (1300 ET) Recording To Follow
 1. Welcome and Introductions
