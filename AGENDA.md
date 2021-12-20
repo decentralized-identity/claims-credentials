@@ -33,6 +33,75 @@ Password: 880986,
 
 </details>
 
+## Meeting - 17th January 2022 - (1300 ET)
+1. Welcome and Introductions
+2. [WG Participation Tracking](https://docs.google.com/spreadsheets/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=0)
+3. Workitem Status: JWS Test Suite [notes](https://hackmd.io/WtOeBNQfRmye7FrjYjNI3g)
+4. Workitem Status: WACI-PEX - off this week, swift progress on Issuance extension
+5. Workitem Status: PE (2.0) + Credential Manifest
+6. Verifier Universal Interface (VUI) tracking
+7. Discuss Proposed Work Item - Data Agreement protocol 
+
+## Meeting - 3rd January 2022 - NO MEETING
+
+## Meeting - 20th December 2021 - (1300 ET) - 
+1. Welcome and Introductions
+2. [WG Participation Tracking](https://docs.google.com/spreadsheets/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=0)
+3. Workitem Status: JWS Test Suite [notes](https://hackmd.io/WtOeBNQfRmye7FrjYjNI3g)
+    - core work done
+    - 1/3 meeting cancelled; next meeting 1/17
+4. Workitem Status: WACI-PEX - off this week, swift progress on Issuance extension
+    - today's meeting cancelled
+    - v0.1 has been cut and will be published when the [pr](https://github.com/decentralized-identity/waci-presentation-exchange/pull/133) is merged
+5. Workitem Status: PE (2.0) + Credential Manifest
+    - work continues on David Chadwick's minimalist [profile](https://github.com/decentralized-identity/presentation-exchange/discussions/269)
+    - [wallet-rendering repo](https://github.com/decentralized-identity/wallet-rendering/pull/1) split out from credential manifest as distinct spec
+6. Verifier Universal Interface (VUI) tracking
+    - no update?
+7. Workshopping New Work Item proposal for Data Agreement work (not quite quorum today)
+8. No meeting 1/3
+
+## Meeting - 10th December 2021 - ESSIF-LAB Consent Record Demo 
+<detail><summary>Description:</summary>
+Data Agreement demoes from NGI ESSIF-LAB sub-grantees iGrant.io, Gataca and the Human Colossus Foundation. These three demo'd implementations demonstrate how a consent notice (or "data agreement" as it was called in the ESSIF-LAB context) gets signed as a shared record between issuers/verifiers (data controllers) and holders (data subjects). The data agreement sets a clear purpose of usage, what personal data is collected, how long data can be retained and on what lawful basis it can be processed; both parties keep a record, allowing precise GDPR enforcement and transparency on all sides. 
+
+The data agreement was originally based on the Kantara Initiative's Consent Notice, which is now being standardized as a new ISO standard 27560. All DIF members are welcome to the demo to better understand what data agreements are and how it has was implemented using VC technology by the NGI essif-lab participants.  The meeting will be recorded and archived as a meeting of the Claims & Credentials WG.
+</detail>
+
+## Minutes - 10th December 2021 - ESSIF-LAB Consent Record Demo - [Raw Recording](https://us02web.zoom.us/rec/share/GI-WGx_A8tjV_Awwck5yFuB7VWjZcF9AXa0q3ouOkrIeKRyhEFvN6iKR6zcklGD1.x0c84o0oeaWFi4tV) - [Youtube Recording](https://youtu.be/Mq4oXEaOTwg)
+- Presentation/context
+    - Data agreement automation for GDPR/DPIA purposes
+    - Flow ![](https://i.imgur.com/4XG0UZN.png)
+- Demo: PrivacyAnt product 
+    - Travel Agent dashboard <> iGrant.io personal wallet (Aries) <> Vaxx info from 
+        - vocab info anchored to CCG vacc vocab
+
+
+## Meeting - 6th December 2021 - (1300 ET) - 
+1. Welcome and Introductions
+3. ESSIF-LAB Consent Record Demo - Friday - just waiting on final [re]-confirmation
+5. [WG Participation Tracking](https://docs.google.com/spreadsheets/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=0)
+6. Workitem Status: JWS Test Suite [notes](https://hackmd.io/WtOeBNQfRmye7FrjYjNI3g)
+8. Workitem Status: WACI-PEX - off this week, swift progress on Issuance extension
+10. Workitem Status: PE (2.0) + Credential Manifest
+12. Verifier Universal Interface (VUI) tracking
+
+### Minutes - 6th December 2021 - (1300 ET) - [Recording](https://us02web.zoom.us/rec/share/kRUsS_yY0yevGU1m1yTIjoabrazAaFpY_wvDuDvh9nxg5mP6nh4SlM8VnG7JiE95.yKFVEL3OlfIU6gP5) 
+1. Welcome and Introductions
+3. ESSIF-LAB Consent Record Demo - Friday - just waiting on final [re]-confirmation
+5. [WG Participation Tracking](https://docs.google.com/spreadsheets/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=0)
+6. Workitem Status: JWS Test Suite [notes](https://hackmd.io/WtOeBNQfRmye7FrjYjNI3g)
+    -  today was largely about the test-by-test consequences of "instead of or in addition to" ambiguity in JWT expression of credentials as defined by the JWT section of the VC data model v1.1; see the notes for 
+8. Workitem Status: WACI-PEX - off this week, swift progress on Issuance extension
+    - waiting on a lot of upstream blockers
+        - BBS+ blocking both presentation and issuance now
+    - meeting later today if you want to contribute to a more agnostic/multi-ZKP PR?
+10. Workitem Status: PE (2.0) + Credential Manifest
+    - PE v2 moving forward
+    - At last CM meeting, PE mostly pre-empted (kinks around OIDF usage)
+12. Verifier Universal Interface (VUI) tracking
+    - Waiting for sign-off on IPR from all donors still?
+
 ## Meeting - 22nd November 2021 - (1300 ET) 
 1. Welcome and Introductions
 3. Juan stepping up as C&C chair?
