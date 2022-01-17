@@ -41,6 +41,7 @@ Password: 880986,
 5. Workitem Status: PE (2.0) + Credential Manifest
 6. Verifier Universal Interface (VUI) tracking
 7. Discuss Proposed Work Item - Data Agreement protocol 
+8. Discuss Proposed Work Item - Split CM & Wallet Rendering
 
 ## Meeting - 3rd January 2022 - NO MEETING
 
