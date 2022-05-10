@@ -47,7 +47,7 @@ Get implementer's feedback and improve the interoperability profile document
 To move a deliverable forward by reviewing GitHub issues and PRs.
 
 - **Where are the notes and recordings published, if any?**
-The recordings are published in the #general channel on the DIF Slack. There are no notes.
+The recordings are published in the #general channel on the DIF Slack and on the Meeting Records spreadsheet. Agendas are entirely GitHub driven, so no separate agenda/minutes documents will be generated; questions and input requests are best directed to GitHub issues.
 
 - **Who might be interested in attending?**
 implementers, decision-makers and architects who want to build interoperable VC implementations.
