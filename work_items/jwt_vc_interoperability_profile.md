@@ -44,7 +44,7 @@ implementers, decision-makers and architects who want to build interoperable VC 
 
 ## Meetings
 - **Are there regular meetings? If so, when?**
-Last Wednesday of a month, at 11PM PST.
+Every 4 weeks, starting Wednesday 25 May, at 11PM PST
 
 - **What are the goals of the meeting?**
 Get implementer's feedback and improve the interoperability profile document
