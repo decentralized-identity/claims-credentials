@@ -26,7 +26,7 @@ to achieve interoperability across independent implementations. A set of test ve
   
 - **What's the expected timeline?**
   - Stage 1 (Summer 2022): Presentation - Enable Holder A to present a compliant VC to Verifier B
-  - Stage 2 (Winter 2022): Issuance​ - Enable Issuer C to issue credential to Holder A
+  - Stage 2 (Winter 2022): Issuance​ - Enable Issuer A to issue credential to Holder B
   - Stage 3 (Early 2023): Portability - Enable movement of the credentials across wallets
 
 - **Who's the audience of your deliverables?**
