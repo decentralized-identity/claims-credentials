@@ -33,7 +33,9 @@ to achieve interoperability across independent implementations. A set of test ve
 implementers, decision-makers and architects who want to build interoperable VC implementations.
 
 - **What are related resources or standards from DIF or adjacent organizations?**
-W3C VC-DATA-MODEL, OIDF Self-Issued OpenID Connect Provider v2, OIDF OpenID Connect for Verifiable Presentations, 
+* [W3C VC-DATA-MODEL v1.1](https://www.w3.org/TR/2022/REC-vc-data-model-20220303/)
+* [OIDF Self-Issued OpenID Connect Provider v2](https://bitbucket.org/openid/connect/src/master/openid-connect-self-issued-v2/openid-connect-self-issued-v2-1_0.md)
+* [OIDF OpenID Connect for Verifiable Presentations](https://bitbucket.org/openid/connect/src/master/openid-connect-4-verifiable-presentations/openid-connect-4-verifiable-presentations-1_0.md)
 * [DIF Presentation Exchange](https://identity.foundation/presentation-exchange/)
 * [W3C DID-CORE v1.0 CR Draft](https://www.w3.org/TR/2021/PR-did-core-20210803/)
 * [DIF Well-Known DID Configuration](https://identity.foundation/.well-known/resources/did-configuration/)
