@@ -34,7 +34,11 @@ implementers, decision-makers and architects who want to build interoperable VC 
 
 - **What are related resources or standards from DIF or adjacent organizations?**
 W3C VC-DATA-MODEL, OIDF Self-Issued OpenID Connect Provider v2, OIDF OpenID Connect for Verifiable Presentations, 
-DIF Presentation Exchange, W3C DID-CORE, DIF Well-Known DID Configuration, W3C CCG Status List 2021, and DIF Identity-Hub (Decentralized Web Node).
+* [DIF Presentation Exchange](https://identity.foundation/presentation-exchange/)
+* [W3C DID-CORE v1.0 CR Draft](https://www.w3.org/TR/2021/PR-did-core-20210803/)
+* [DIF Well-Known DID Configuration](https://identity.foundation/.well-known/resources/did-configuration/)
+* [W3C CCG Status List 2021](https://w3c-ccg.github.io/vc-status-list-2021/)
+* [DIF Decentralized Web Node, fka Identity Hubs]()
 
 ## Meetings
 - **Are there regular meetings? If so, when?**
