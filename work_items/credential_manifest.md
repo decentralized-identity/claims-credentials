@@ -2,7 +2,7 @@
 
 ## Work Item Owners
 - Dan Buchner (@csuwildcat)
-- Gabe Cohen (@glcohen)
+- Gabe Cohen (@decentralgabe)
 
 ## Outcome
 **When your work item is successful, then what will have changed in the world? What
@@ -35,7 +35,7 @@ Audiance are developers implementing issuer-subject interactions around the disc
 - **What are related resources or standards from DIF or adjacent
   organizations?**
 
-DIF Presentation Exchange, 3C Verifiable Credentials, JSON-LD Signatures, JWT, OpenID Connect, CHAPI, and DID-SIOP.
+DIF Presentation Exchange, W3C Verifiable Credentials, JSON-LD Signatures, JWT, OpenID Connect, CHAPI, and DID-SIOP.
 
 ## Meetings
 - **Are there regular meetings? If so, when?**
