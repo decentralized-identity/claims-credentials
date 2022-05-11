@@ -8,7 +8,7 @@ Trust in the decentralized space is a wide problem that many have tried to solve
 
 ## Work Item Owners
 - Gabe Cohen (@decentralgabe)
-- ...
+- Michael Boyd (@michaeldboyd)
 
 ## Outcome
 **When your work item is successful, then what will have changed in the world? What will we be able to do that wasn't possible do before or vice versa?**
@@ -26,7 +26,7 @@ Parties using Decentralized Identifier-relative protocols, and the applications 
 
 - **What's the expected timeline?**
 
-  We aim to publish a first draft by the end of Q3, 2022 -- June 15.
+  We aim to publish a first draft by the end of Q2, 2022 -- June 15.
 
 - **Who's the audience of your deliverables?**
 
@@ -38,19 +38,22 @@ Parties using Decentralized Identifier-relative protocols, and the applications 
   - DIF: [Presentation Exchange](https://identity.foundation/presentation-exchange/)
   - IETF: [RFC5280: Internet X.509 Public Key Infrastructure Certificate and Certificate Revocation List (CRL) Profile](https://datatracker.ietf.org/doc/html/rfc5280)
   - ToIP: [Introduction to Trust Over IP](https://www.trustoverip.org/wp-content/uploads/Introduction-to-ToIP-V2.0-2021-11-17.pdf)
-  - ToIP: [Trust Registry Specification](https://github.com/trustoverip/tswg-trust-registry-tf)
+  - ToIP, Trinsic: [Trust Registry Spec GitHub](https://github.com/trustoverip/tswg-trust-registry-tf), [Trust Registry Spec](https://trinsic-id.github.io/tswg-trust-registry-tf/), [Trust Registry Protocol Spec](https://wiki.trustoverip.org/display/HOME/ToIP+Trust+Registry+Protocol+Specification)
+
 
 ## Meetings
 - **Are there regular meetings? If so, when?**
-  TBD
+  Bi-weekly meetings. Perhaps as the 2nd part of the PE/CM meeting?
 
 - **What are the goals of the meeting?**
+
   1. Agree on deliverables
   2. Work towards deliverables (e.g. spec work, open and organize issues, assign work, review and merge PRs)
   3. Publicly represent the work (e.g. at DIF all hands, IIW, between standards bodies, etc.)
 
 - **Do you have specific discussion topics in mind, or is it meant to move a
   deliverable forward?**
+
   Start open ended based on the content of this document, get more specific around specifications, protocols, and possible deliverables.
 
 - **Where are the notes and recordings published, if any?**
