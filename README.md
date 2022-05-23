@@ -11,7 +11,6 @@ for broad adoption around Claim & Credential processes within SSI
 - The group's [Charter](https://github.com/decentralized-identity/org/blob/master/Org%20documents/WG%20documents/DIF_CC_WG_charter_v1.pdf) and [Operating Addendum](https://github.com/decentralized-identity/org/blob/master/Org%20documents/WG%20documents/DIF_CC_WG_Operating_Addendum_V1.pdf)
 - All ongoing and prior work item repos on GitHub can be browsed [here](https://github.com/topics/wg-cc)
 - [Mailing List](https://lists.identity.foundation/g/cc-wg): Receive the latest updates here.
-- DEPRECATED [Notion Page](https://www.notion.so/dif/Claims-and-Credentials-d236ac4366d54c76ba85c2f521c003e0): This page is used for taking meeting notes and collaborating around non-code/specification-based work items within the group. Code/specification-based work items should exist in their own repository, such as in the case of [Presentation Exchange](https://github.com/decentralized-identity/presentation-exchange).
 
 ## Creating a new work item
 
@@ -34,11 +33,12 @@ for broad adoption around Claim & Credential processes within SSI
    majority approval across an odd number of chairs. Your item co-owners
    **must** express in the Pull Request via GitHub comment that they accept the
    responsbilities of work item ownership.
-7. Upon approval via merging, begin an email thread with the chairs or discuss
-   asynchronously if you require any administrative resources from DIF, such as
-   a regularly scheduled Zoom meeting link, inclusion on the
-   [DIF calendar](mailto:decentralized.identity@gmail.com), a subpage in Notion
-   to store notes and recordings, or any other help facilitating your work
+7. Upon approval via merging, chairs will create 1 or more repos and assign
+   code-owner status to applicants, then begin an email thread with the chairs. 
+   discuss asynchronously if you require any administrative resources from DIF,
+   such as a regularly scheduled Zoom meeting link, inclusion on the
+   [DIF calendar](mailto:decentralized.identity@gmail.com), help configuring
+   hackmd for in-meeting notes/agendas, or any other help facilitating your work
    item.
 
 ## Work item ownership responsibilities
