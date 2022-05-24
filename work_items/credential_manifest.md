@@ -3,6 +3,8 @@
 ## Work Item Owners
 - Dan Buchner (@csuwildcat)
 - Gabe Cohen (@decentralgabe)
+- Mike Ebert (@mikekebert)
+- Juan Caballero (@bumblefudge)
 
 ## Outcome
 **When your work item is successful, then what will have changed in the world? What
