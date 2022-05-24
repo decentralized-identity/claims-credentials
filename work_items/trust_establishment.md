@@ -45,7 +45,7 @@ Parties using Decentralized Identifier-relative protocols, and the applications 
 
 ## Meetings
 - **Are there regular meetings? If so, when?**
-  Bi-weekly meetings. Perhaps as the 2nd part of the PE/CM meeting?
+  Weekly meetings. Monday 1-1:30 pm ET, starting June, 6th 2022.
 
 - **What are the goals of the meeting?**
 
