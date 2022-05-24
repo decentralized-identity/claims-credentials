@@ -8,7 +8,6 @@ Trust in the decentralized space is a wide problem that many have tried to solve
 
 ## Work Item Owners
 - Gabe Cohen (@decentralgabe)
-- Michael Boyd (@michaeldboyd)
 - Mike Ebert (@mikekebert)
 - Juan Caballero (@bumblefudge)
 
