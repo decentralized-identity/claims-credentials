@@ -8,7 +8,8 @@ externally that addresses the need, the group may elect to generate and publish
 new schemas and publish them within the directory project/repo.
 
 ## Work Item Owners
-- Daniel Buchner (@github, email@example.com, or both)
+- Daniel Buchner @csuwildcat
+- Jack Couch @JackSophtron
 
 ## Outcome
 This will be a long-lived work item, but an indication of success will be that 
