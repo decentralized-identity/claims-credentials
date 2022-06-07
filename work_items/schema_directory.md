@@ -10,6 +10,7 @@ new schemas and publish them within the directory project/repo.
 ## Work Item Owners
 - Daniel Buchner @csuwildcat
 - Jack Couch @JackSophtron
+- Martin Riedel (@rado0x54)
 
 ## Outcome
 This will be a long-lived work item, but an indication of success will be that 
