@@ -47,7 +47,9 @@ implementers, decision-makers and architects who want to build interoperable VC 
 Every 4 weeks, starting Wednesday 25 May, at 11PM PST
 
 - **What are the goals of the meeting?**
-Get implementer's feedback and improve the interoperability profile document
+Get implementer's feedback and improve the interoperability profiles' documentation:
+* Presentation Profile - [underway](https://github.com/decentralized-identity/jwt-vc-presentation-profile)
+* Additional Profiles - future 
 
 - **Do you have specific discussion topics in mind, or is it meant to move a deliverable forward?**
 To move a deliverable forward by reviewing GitHub issues and PRs.
