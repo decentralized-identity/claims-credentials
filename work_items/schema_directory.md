@@ -25,7 +25,7 @@ in a given circumstance.
 - Publication of the directory on the DIF website
 
 ## Meetings
-- Meetings will be held once a month, with async eval of PRs for additions being 
+- Meetings will be held once a month (but likely biweekly at the outset), with async eval of PRs for additions being 
   the primary mode of collaboration.
 - Meetings will primarily be focused on review of any outstanding issues.
 - Recordings of meetings will be published to the same sheet other WG meetings are.
