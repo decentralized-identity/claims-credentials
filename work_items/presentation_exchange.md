@@ -4,6 +4,9 @@
 - Dan Buchner (@csuwildcat)
 - Brent Zundel (@brentzundel)
 
+## Repositories
+- [presentation-exchange](https://github.com/decentralized-identity/presentation-exchange/)
+
 ## Outcome
 **When your work item is successful, then what will have changed in the world? What
 will we be able to do that wasn't possible do before or vice versa?**
