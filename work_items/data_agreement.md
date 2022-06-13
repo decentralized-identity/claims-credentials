@@ -9,6 +9,9 @@
 - Jan Lindquist (jan@linaltec.com) 
 - Jose San Juan (jose@gataca.io) 
 
+## Repositories
+- [data-agreement](https://github.com/decentralized-identity/data-agreement)
+
 ## Outcome
 **When your work item is successful, then what will have changed in the world? What will we be able to do that wasn't possible do before or vice versa?**
 The goal of the work item is to have a standard means of exchanging a data agreement between actors in DLT, a Holder and Issuer/Verifier. The data agreement shall be interoperable between suppliers. Main focus for DIF is to define one or more “profiles” of existing protocols that would enable an end-to-end data agreement reference implementation for one or more use-cases and the data model previously defined and potentially being iterated here. For example, a data agreement reference implementation may use a specific profile of the presentation exchange protocol based on a specific DID method, without making presentation exchange or that DID method a normative requirement of the data agreement data model. The content of the data agreement may continue to be  worked on, together with privacy and consent experts (for example, Kantara may provide guidance on how to use their relevant ratified outputs, or contribute directly to the group as consent experts via membership or feedback agreement), respecting the IPR boundaries of DIF and any other IPR-protected collaborative organizations.
