@@ -11,6 +11,9 @@ Trust in the decentralized space is a wide problem that many have tried to solve
 - Mike Ebert (@mikekebert)
 - Juan Caballero (@bumblefudge)
 
+## Repositories
+- [trust-establishment](https://github.com/decentralized-identity/trust-establishment)
+
 ## Outcome
 **When your work item is successful, then what will have changed in the world? What will we be able to do that wasn't possible do before or vice versa?**
 
