@@ -15,6 +15,8 @@ OpenID Connect, and others. Our interested formats include W3C Verifiable
 Credentials, Verifiable Presentations, OpenID Connect Identity Tokens, and
 ad-hoc JSON signed with the JSON-LD Signature or JWT specifications.
 
+## Repositories
+- [credential-manifest](https://github.com/decentralized-identity/credential-manifest)
 
 ## Deliverables
 - **Does your work item have any deliverables? These include code projects,
