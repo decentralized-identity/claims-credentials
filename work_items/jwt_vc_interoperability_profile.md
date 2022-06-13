@@ -9,6 +9,9 @@ which implementers, decision-makers and architects can refer to.
 - Jeremie Miller (@quartzjer)
 - Kristina Yasuda (@Sakurann)
 
+## Repositories
+- [jwt-vc-presentation-profile](https://github.com/decentralized-identity/jwt-vc-presentation-profile)
+
 ## Outcome
 **When your work item is successful, then what will have changed in the world? What
 will we be able to do that wasn't possible do before or vice versa?**
