@@ -6,6 +6,8 @@
 - Brent Zundel (@brentzundel)
 - Jace Hensley (@JaceHensley)
 
+## Repositories
+- [WACI-DIDComm](https://github.com/decentralized-identity/waci-didcomm)
 
 ## Outcome
 **When your work item is successful, then what will have changed in the world? What
