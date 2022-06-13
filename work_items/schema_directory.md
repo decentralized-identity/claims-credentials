@@ -12,6 +12,9 @@ new schemas and publish them within the directory project/repo.
 - Jack Couch (@JackSophtron)
 - Martin Riedel (@rado0x54)
 
+## Repositories
+- [schema-directory](https://github.com/decentralized-identity/schema-directory)
+
 ## Outcome
 This will be a long-lived work item, but an indication of success will be that 
 we have assembled a directory with enough coverage across a wide enough array 
