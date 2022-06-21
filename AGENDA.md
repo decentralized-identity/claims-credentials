@@ -33,15 +33,331 @@ Password: 880986,
 
 </details>
 
+## Meeting Template
+1. Welcome and Introductions
+2. [WG Participation Tracking](https://docs.google.com/spreadsheets/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=0)
+3. Workitem Status: [PE](https://github.com/decentralized-identity/presentation-exchange/issues) (v2.0) + [Credential Manifest](https://github.com/decentralized-identity/credential-manifest/issues) (1pm ET Thu)
+4. Workitem Status: [Data Agreements](https://github.com/decentralized-identity/data-agreement/issues)
+5. Verifier Universal Interface (VUI) tracking
+6. Workitem Status (DORMANT): [WACI-DIDComm](https://github.com/decentralized-identity/waci-didcomm/issues)
+7. Workitem Status (DORMANT): [VC-JWT & Friends](https://github.com/decentralized-identity/JWS-Test-Suite/issues)
+8. Workitem Status (no regular time set yet but check Slack channel): [Schema Directory](https://github.com/decentralized-identity/schema-directory/issues)
+9. Workitem Status (weekly): [Trust Establishment](https://github.com/decentralized-identity/trust-establishment/issues)
+10. Workitem Status (Monthly): [JWT-VC Interoperability Profile](https://github.com/decentralized-identity/jwt-vc-presentation-profile/issues)
+11. New business 
+
+## Meeting 21 June 2022 - (1300 ET)
+1. Welcome and Introductions
+    - Identiverse + NFT.NYC = low DIF attendance across the board
+3. [WG Participation Tracking](https://docs.google.com/spreadsheets/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=0)
+4. Workitem Status: [PE](https://github.com/decentralized-identity/presentation-exchange/issues) (2.0) + [Credential Manifest](https://github.com/decentralized-identity/credential-manifest/issues) (1pm ET Thu)
+    - Registry [issue](https://github.com/decentralized-identity/presentation-exchange/issues/340) - also example JSON Schema should include more examples
+    - v2 coming soon!
+6. Workitem Status: [Data Agreements](https://github.com/decentralized-identity/data-agreement/issues)
+    - steady work! 
+8. Verifier Universal Interface (VUI) tracking
+    - status: pending
+10. Workitem Status (DORMANT): [WACI-DIDComm](https://github.com/decentralized-identity/waci-didcomm/issues)
+11. Workitem Status (DORMANT): [VC-JWT & Friends](https://github.com/decentralized-identity/JWS-Test-Suite/issues)
+12. Workitem Status (no regular time set yet but check Slack channel): [Schema Directory](https://github.com/decentralized-identity/schema-directory/issues)
+13. Workitem Status (weekly): [Trust Establishment](https://github.com/decentralized-identity/trust-establishment/issues)
+    - straw man PRs incoming, still early enough to jump!
+14. Workitem Status (Monthly): [JWT-VC Interoperability Profile](https://github.com/decentralized-identity/jwt-vc-presentation-profile/issues)
+    - next meeting: processing 15 fresh issues against strawman --> v1.0 
+15. New business 
+
+## Meeting - 7 June 2022 - (1300 ET)
+1. Welcome and Introductions
+2. [WG Participation Tracking](https://docs.google.com/spreadsheets/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=0)
+3. Decision Workitem Proposal: [Schema Directory]
+    - Wait for feedback to proposal - need second owner
+    - [template](https://github.com/decentralized-identity/template-for-registry-workitems/blob/main/single-file-test/spec.md) ready to go
+4. Workitem: Trust Establishment specs and protocols
+    - First meeting was yesterday - quick highlevel progress, the water's fine!
+    - https://hackmd.io/a50I9MlkRVOQJOYgf7b3hA
+5. Workitem: Presentation Exchange (& CM)
+    - Extensibility
+        - intent to retain (OIDC4VP and mDL interop issues) - trying to find a way to ease it into an optional feature
+    - Racing towards feature freeze; issue triage proceeding at a healthy clip
+6. Workitem: Data Agreements
+    - No meeting
+7. Workitem Status (DORMANT): WACI-DIDComm 
+    - Dormant for BBS+/DIDComm
+8. Workitem Status (DORMANT): VC-JWT & Friends
+9. New Workitem: JWT-VC Interop Profile 1st Meeting
+    - Next Meeting: Jun 15th.
+10. Status Proposal: Verifier Universal Interface (VUI) tracking
+    - Waiting for Feedback from Irene
+    - Got the feedback: Upload VUI code to DIF within the week. Coordinated by Paul as well.
+11. Discussion Point: Soul Bound Token Whitepaper worthy of a DIF response?
+    - Strawman by Martin
+        - target audience: newcomers to the space, people without IAM/T&S background
+        - tone: 
+    - https://docs.google.com/document/d/1AE4-wkSOOSX0crAdJSXI-0QikXukMFscJjd3xKae1vg/edit?usp=sharing
+
+
+
+## Meeting - 24 May 2022 - (1300 ET)
+1. Welcome and Introductions
+2. [WG Participation Tracking](https://docs.google.com/spreadsheets/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=0)
+3. Decision Workitem Proposal: [Schema Directory](https://github.com/decentralized-identity/claims-credentials/pull/13)
+- Find more contributors
+- Review PR comments.
+- Try to merge at next biweekly.
+- Prior Art:
+    - https://w3c-ccg.github.io/traceability-vocab/
+    - https://github.com/decentralized-identity/template-for-registry-workitems
+5. Decision Workitem Proposal: [Trust Establishment specs and protocols](https://github.com/decentralized-identity/claims-credentials/pull/12)
+- Accepted and Merged
+6. Workitem Status: PE (2.0) + Credential Manifest (1pm ET Thu)
+- Working on open PRs
+- Feedback Mike Ebert around Presentation Exchange (will raise Issue)
+8. Workitem Data Agreements
+9. Verifier Universal Interface (VUI) tracking
+14. Workitem Status (DORMANT): WACI-DIDComm 
+16. Workitem Status (Biweekly): VC-JWT & Friends
+17.
+
+
+## Meeting - 10 May 2022 - (1300 ET)
+1. Welcome and Introductions
+2. [WG Participation Tracking](https://docs.google.com/spreadsheets/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=0)
+4. Workitem Status: PE (2.0) + Credential Manifest (1pm ET Thu)
+    - Call PE 2.0 feedback 
+    - June 30th final date for feedback 
+6. Workitem Data Agreements
+    - trying to reconcile two differtn implmenrations  
+    - working implmentation is driving work 
+8. Verifier Universal Interface (VUI) tracking
+    - To follow up with Martin 
+10. Workitem Proposal: reactivate the Credential Taxonomy item under the name Schema Directory
+    - Alot of interest to get this restarted 
+    - Request from companies to have a resource to point to "existing" schema or a single resource for schemas 
+    - Have active contributors who want to make additions 
+    - Brent 
+        - DIF doest have a process for registries or living documents 
+        - Choice is to use what tools do exit
+        - Currently needs to go through working group approved 
+    - Will bring to TSC to try and define a process
+    - DB will create a work item proposal PR
+    - *kickoff meeting* ASAP after that 
+12. Workitem Proposal: Trust Establishment specs and protocols
+    - IIW session and hackmd file
+    - spec to define reputation exchange/transferible trust mechanism (potentially )
+    - Gabe Cohen ; Trinsic
+    - Gabe Cohen will create a work item proposal PR
+14. Workitem Status (DORMANT): WACI-DIDComm 
+    - [PR to cut v1](https://github.com/decentralized-identity/waci-didcomm/pull/27), baybee
+16. Workitem Status (Biweekly): VC-JWT & Friends
+    - NEW TIME: Thursdays 2pm EST (starting in two days, with a live demo from Orie)
+18. New business - Work Item Proposals
+    - https://github.com/decentralized-identity/claims-credentials/pull/11 - LGTM/LFG
+    - kick off meeting wen
+19. IIW Review - Collective highlights reporting
+    - Federated/SSI conflicts mostly civil (one exception in one of Tim Ruff's sessions)
+    - mucho KERI (and AC/DC) - barage of new sub-specs with acronym titles for various layers and parts
+    - lots of GNAP and DPOP sessions
+    - Block pushing hard on DWN work
+    - INDICIO machine-readable governance framework (implementation uses PE)
+        - Indicio / Mike if you're reading this, plz come to a thursday PE meeting very soon!
+        - [based on Oct 2021, RFC430](https://github.com/hyperledger/aries-rfcs/tree/main/concepts/0430-machine-readable-governance-frameworks)
+        - https://hackmd.io/@mikekebert/HJBQH-SBc#/2
+    - mDL/mDOCs poised to eat the world
+        - PE could handle mDL payloads with a few tweaks! design goal for PEv3
+
+
+## Meeting - 3 May 2022 - (1300 ET)
+- meeting moving to TUESDAYS ()
+
+## Meeting - 26 Apr 2022 - (1300 ET)
+- cancelled for IIW
+
+## Meeting - 11 April 2022 - (1300 ET)
+1. Welcome and Introductions
+3. [WG Participation Tracking](https://docs.google.com/spreadsheets/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=0)
+4. C&C Biweekly Time Update: Reason: Chair conflicts.
+ - Agreement: In two Week change to Tues 1pm ET. 3May.
+6. Workitem Status: PE (2.0) + Credential Manifest (1pm ET Thu)
+    - [Explicit WG Poll --> Consensus around optional Presentation Submission in PE](https://github.com/decentralized-identity/presentation-exchange/issues/323)
+    - Handling of formal objection.
+    - [Block Implementation of PE](https://github.com/TBD54566975/did-sdk/pull/61)
+7. Workitem Data Agreements (8am ET Thu)
+    - [Cross PE Issue](https://github.com/decentralized-identity/presentation-exchange/issues/307). Highlight in PE meeting on 21 April.
+    - Next call on Thursday is cancelled due to Easter.
+    - Interest from MyData Community
+9. Verifier Universal Interface (VUI) tracking
+    - No update. Waiting for Feedback and Workitem Proposal.
+11. Workitem Status (DORMANT): WACI-PEX -  [notes](https://hackmd.io/6vK3iMaETna1QGipK5QvbQ)
+    - No update.
+13. Workitem Status (Biweekly): JWS Test Suite [notes](https://hackmd.io/WtOeBNQfRmye7FrjYjNI3g)
+    - CBOR/COSE discussions adjacently discussed. (More VC spec working group)
+15. [VC Protocol discussion. OpenID, CHAPI, etc.](https://lists.w3.org/Archives/Public/public-credentials/2022Mar/thread.html)
+
+
+
+## Meeting - 28 March 2022 - (1300 ET)
+1. Welcome and Introductions
+    - Martin
+    - Juan
+    - Lance Byrd - rootsid - rootswallet
+    - Liran Cohen - Independent
+    - Harrison - Spokeo
+3. [WG Participation Tracking](https://docs.google.com/spreadsheets/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=0)
+4. C&C Biweekly Time Update: Reason: Chair conflicts. Change from in 4 weeks. (or 3 weeks to be the other week to SDS.)
+    - Tuesdays, 1pm ET
+    - Wednesday, 1pm ET (outside of SDS Implementers call)
+5. Workitem Status: PE (2.0) + Credential Manifest (1pm ET Thu)
+    - [Block Implementation of PE](https://github.com/TBD54566975/did-sdk/pull/61)
+7. Workitem Data Agreements (8am ET Thu)
+    - Update from Jan
+9. Verifier Universal Interface (VUI) tracking
+    - Get in Workitem Proposal to C&C
+    - Find Biweekly Time.
+11. Workitem Status (DORMANT): WACI-PEX -  [notes](https://hackmd.io/6vK3iMaETna1QGipK5QvbQ)
+    - Maybe un-dormanted. Check out today's meetings.
+13. Workitem Status (Done): JWS Test Suite [notes](https://hackmd.io/WtOeBNQfRmye7FrjYjNI3g)
+    - Meeting stills taking place.
+    - Gabe - Block implementation of JWT-VC
+    - Input for more normative JWT Section within the VC 2.0 spec.
+15. [VC Protocol discussion. OpenID, CHAPI, etc.](https://lists.w3.org/Archives/Public/public-credentials/2022Mar/thread.html)
+    - Call session @IIW.
+    - Next Generation of OIDF Standards - WG
+
+
+## Meeting - 14 March 2022 - (1300 ET)
+1. Welcome and Introductions
+2. [WG Participation Tracking](https://docs.google.com/spreadsheets/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=0)
+3. DONE-ISH Workitem Status: JWS Test Suite [notes](https://hackmd.io/WtOeBNQfRmye7FrjYjNI3g)
+    - no update
+5. DORMANT Workitem Status: WACI-PEX -  [notes](https://hackmd.io/6vK3iMaETna1QGipK5QvbQ)
+    - no update
+7. Workitem Status: PE (2.0) + Credential Manifest
+    - Jan raise an issue on PE & PR to add guidence to the current field & that it will be expanded, with work from data agreements WI 
+    - Clarificaion on the requirments of the use of Presentation Submission as it related to Presentation Def (you need to use it) 
+9. Workitem Data Agreements
+    - Jan still coordinating 
+    - A slot has been assigned but it hasnt been added to calandar + adding auto recording 
+10. Verifier Universal Interface (VUI) tracking
+    - Martin to update 
+12. [If time allows] Discuss Credential Taxonomy --> Schema
+
+
+## Meeting - 28 February 2022 - (1300 ET)
+1. Welcome and Introductions
+2. [WG Participation Tracking](https://docs.google.com/spreadsheets/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=0)
+3. Workitem Status: JWS Test Suite [notes](https://hackmd.io/WtOeBNQfRmye7FrjYjNI3g)
+4. Workitem Status: WACI-PEX - [notes](https://hackmd.io/6vK3iMaETna1QGipK5QvbQ)
+    - Still on hold
+6. Workitem Status: PE (2.0) + Credential Manifest
+    - Review of 2.0
+7. Workitem Data Agreements
+    - Not officially started yet.
+    - GitHub Repo (@Chris)
+    - Calendar Entry for regular meetings (Thursday 14:00 - 15:00 CET)
+    - 17.3. as first meeting.
+    - Relation to "PE" Purpose
+    - Creation of Issue in PE on extension of Purpose.
+9. Verifier Universal Interface (VUI) tracking
+    - Blocker around legal IPR sign-off
+10. Discuss DIF F:F feedback and conversation.
+    - There will be a session by session split of the recording(s).
+12. Discuss Profiles (Martin)
+    - Profiles becoming more and more important in the space.
+    - Profile in Data Agreement !== Profile to restrict the technology stack
+14. Discuss Credential Taxonomy --> Schema
+15. [If time allows] IANA registration for JWAs needed for EIP712 and/or conventional eth sigs (ES256 + Keccak)?  
+
+
+## Meeting - 14 February 2022 - (1300 ET)
+
+Valentine's Day Edition💘:
+1. Welcome and Introductions
+2. [WG Participation Tracking](https://docs.google.com/spreadsheets/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=0)
+3. Interop Profile Donation Presentation
+ - summary in one slide:
+ - ![](https://i.imgur.com/Pmplyre.png)
+4. Workitem Status: JWS Test Suite [notes](https://hackmd.io/WtOeBNQfRmye7FrjYjNI3g)
+    - work has been done for a while. still meeting to discuss up and down stream issues. 
+    - currently discussing VC Working group charter issues. 
+        - how the non-normative examples can help implmentation
+        - the next 1-3 meeting will be about vc working group charters discussions 
+6. Workitem Status: WACI-PEX
+    - currently taking a small break while some dependencies sort out
+    - some BBS+ implmenations have surfaced issues in the core specs 
+    - Finished presenation & have made progress on issuance stack 
+8. Workitem Status: PE (2.0) + [Schema Directory](https://github.com/decentralized-identity/schema-directory/)
+9. Workitem Status: Credential Manifest + [Wallet Rendering](https://identity.foundation/wallet-rendering/)
+    - Closed PRs and issues
+11. Approval: Verifier Universal Interface (VUI) tracking (first meeting Thursday)
+    - Signoff process to be followed up on by Balazs
+    - SF lab regular meeting are being wound down 
+    - more official announcment at DIF F:F
+    - Work item PR will be set up aginst the c&c repo by Irene
+13. WG status on [DIF F2F](https://www.eventbrite.com/e/difcon-f2f-virtual-3-tickets-162786327287) - Group Presentation (20min)
+    - Template for presentation will be sent out this week.
+    - Chairs will create a slide for each work item and send it out to each work item lead 
+
+## Meeting - 31st January 2022 - (1300 ET)
+1. Welcome and Introductions
+2. [WG Participation Tracking](https://docs.google.com/spreadsheets/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=0)
+3. Workitem Status: JWS Test Suite [notes](https://hackmd.io/WtOeBNQfRmye7FrjYjNI3g)
+    - [Automation of the script broke](https://github.com/decentralized-identity/JWS-Test-Suite/issues/40) upon a recent minor PR, WG is working on fixing it.
+    - VC Working Group Charter <> to next steps of the JWT test suite
+5. Workitem Status: WACI-PEX
+    - next steps a little unclear due to some  upstream blockages
+    - debate about renaming to waci-didcomm now that it includes issuance; profile versus spec? hard to point to issuance normally in any one place
+        - Daniel: Bigger problem of the whole family of specs, non?
+    - Will report back more clearly on end-goals/end-states
+7. Workitem Status: PE (2.0) + Credential Manifest
+    - PE v2: PR up for Review. Layered based rework for PE. Enables to implement a "subset" of the overall protocol.
+    - CM slow. Enforce 50/50 split and have "overrun" time / second time.
+    - 3.0 request being walked back (changes might not be that severe)
+9. Workitem Status: [Wallet Rendering](https://identity.foundation/wallet-rendering/)
+    - will be discussed in the CM half of PE meeting times
+    - no updates this week. small backlog of issues to start with this thursday
+11. Verifier Universal Interface (VUI) tracking
+    - Follow up by Martin
+13. Discuss Proposed Work Item - PresEx/WACI/CM Profile ? 
+    - [Data agreement] (https://github.com/decentralized-identity/claims-credentials/pull/10) - Jan + Jose
+        - Group: Please provide feedback to the proposal.
+        - Reshare Jan Demo. (See notes for 10 dec below.)
+        - First meeting (if approved) for Thursday Feb 17; will open repos in the meantime
+14. [DIF F2F](https://www.eventbrite.com/e/difcon-f2f-virtual-3-tickets-162786327287) - Group Presentation (20min) - Report out.
+    - 1 Slide per Workitem
+        - Including New & Upcoming Workitem Proposals
+        - Also include closed/"failed" workitems?
+    - Propose Workshop / Demos
+    - Move "dormant" Workitems into dedicated session or a workshop to recruit revivers?
+    - [Proposal](https://forms.gle/boKDY113GBDMvvbW6)
+    - [Session Timetable](https://docs.google.com/spreadsheets/d/1iX-JgpPdJMRm_Ie62oicKgFNU21zbPAI8Xix4MuyCjE/edit#gid=1941072278) *(subject to change)*
+15. DIF VC Schema Directory. 
+16. Interop Profile Introduction
+    - Allow the introduction/donation of a profile worked on by MS/Workday/...
+
 ## Meeting - 17th January 2022 - (1300 ET)
 1. Welcome and Introductions
 2. [WG Participation Tracking](https://docs.google.com/spreadsheets/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=0)
 3. Workitem Status: JWS Test Suite [notes](https://hackmd.io/WtOeBNQfRmye7FrjYjNI3g)
-4. Workitem Status: WACI-PEX - off this week, swift progress on Issuance extension
-5. Workitem Status: PE (2.0) + Credential Manifest
-6. Verifier Universal Interface (VUI) tracking
-7. Discuss Proposed Work Item - Data Agreement protocol 
-8. Discuss Proposed Work Item - Split CM & Wallet Rendering
+    - next meeting (timing uncertain) will demo mnemonic/HD-path stuff
+5. Workitem Status: WACI-PEX - 
+    - blocked upstream, issuance solid
+7. Workitem Status: PE (2.0) + Credential Manifest
+    - David Chadwick's Simplified PE Profile
+        - Layering, simple core and push some stuff into "extensions" and full-profile
+    - 3.0 OFF THE TABLE
+    - Too much PE and not enough CM 
+8. Verifier Universal Interface (VUI) tracking
+    - Meeting will [maybe] starting in Feb? ESSIF-LAB spins down in next 2 weeks
+    - Martin following up 
+10. Discuss Proposed Work Item - Data Agreement protocol 
+    - work item proposal in google docs
+    - Juan and Jan will meet before next meeting to go over work item proposal & github/IPR logistics
+11. Discuss Proposed Work Item - Split CM & Wallet Rendering?
+    - Jace happy to commit to more meetings
+    - Wallet Rendering - separate repo/spec, should probably be a separate work item per se
+12. Discuss Credential Taxonomy --> Schema 
+    - outbound/upstream schemata = preferred, at least at the beginning
+    - registry-style, PR in your own row
 
 ## Meeting - 3rd January 2022 - NO MEETING
 
@@ -63,6 +379,8 @@ Password: 880986,
 8. No meeting 1/3
 
 ## Meeting - 10th December 2021 - ESSIF-LAB Consent Record Demo 
+[Recording](https://us02web.zoom.us/rec/share/GI-WGx_A8tjV_Awwck5yFuB7VWjZcF9AXa0q3ouOkrIeKRyhEFvN6iKR6zcklGD1.x0c84o0oeaWFi4tV)
+
 <detail><summary>Description:</summary>
 Data Agreement demoes from NGI ESSIF-LAB sub-grantees iGrant.io, Gataca and the Human Colossus Foundation. These three demo'd implementations demonstrate how a consent notice (or "data agreement" as it was called in the ESSIF-LAB context) gets signed as a shared record between issuers/verifiers (data controllers) and holders (data subjects). The data agreement sets a clear purpose of usage, what personal data is collected, how long data can be retained and on what lawful basis it can be processed; both parties keep a record, allowing precise GDPR enforcement and transparency on all sides. 
 
