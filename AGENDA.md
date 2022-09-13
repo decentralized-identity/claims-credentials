@@ -53,9 +53,9 @@ Password: 880986,
 2. [WG Participation Tracking](https://docs.google.com/spreadsheets/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=0)
 3. Workitem Status: [PE](https://github.com/decentralized-identity/presentation-exchange/issues) (v2.0) + [Credential Manifest](https://github.com/decentralized-identity/credential-manifest/issues) (1pm ET Thu)
 4. Workitem Status: [Data Agreements](https://github.com/decentralized-identity/data-agreement/issues)
-5. Tracking: [Verifier Universal Interface (VUI)] - first meeting as ongoing work item coming soon!
+5. Tracking: _Verifier Universal Interface (VUI)_ - first meeting as ongoing work item coming soon!
 6. Workitem Status (weekly): [Trust Establishment](https://github.com/decentralized-identity/trust-establishment/issues)
-7. Workitem Status (Monthly): [JWT-VC Interoperability Profile](https://github.com/decentralized-identity/jwt-vc-presentation-profile/issues, https://identity.foundation/jwt-vc-presentation-profile/)
+7. Workitem Status (Monthly): [JWT-VC Interoperability Profile](https://github.com/decentralized-identity/jwt-vc-presentation-profile/issues)
 8. Dormant and/or "paused" work
     - (v1; meetings paused) [WACI-DIDComm](https://identity.foundation/waci-didcomm/v1.0)
     - (v1; meetings paused) [VC-JWT & Friends](https://github.com/decentralized-identity/JWS-Test-Suite/issues)
@@ -116,12 +116,12 @@ Entire advanced-paper collection [here](https://github.com/WebOfTrustInfo/rwot11
 - SC Version 2.0 Ready to Review.
 - CM another few weeks.
 5. Workitem Status: [Data Agreements](https://github.com/decentralized-identity/data-agreement/issues)
-6. Tracking: [Verifier Universal Interface (VUI)] 
+6. Tracking: _Verifier Universal Interface (VUI)_
 7. Workitem Status (DORMANT): [WACI-DIDComm](https://github.com/decentralized-identity/waci-didcomm/issues)
 8. Workitem Status (DORMANT): [VC-JWT & Friends](https://github.com/decentralized-identity/JWS-Test-Suite/issues)
 9. Workitem Status (no regular time set yet but check Slack channel): [Schema Directory](https://github.com/decentralized-identity/schema-directory/issues)
 10. Workitem Status (weekly): [Trust Establishment](https://github.com/decentralized-identity/trust-establishment/issues)
-11. Workitem Status (Monthly): [JWT-VC Interoperability Profile](https://github.com/decentralized-identity/jwt-vc-presentation-profile/issues, https://identity.foundation/jwt-vc-presentation-profile/)
+11. Workitem Status (Monthly): [JWT-VC Interoperability Profile](https://github.com/decentralized-identity/jwt-vc-presentation-profile/issues)
 12. New business
 13. No Biweekly Meeting on Working Group no Meeting Aug 16.
 
@@ -143,7 +143,7 @@ Entire advanced-paper collection [here](https://github.com/WebOfTrustInfo/rwot11
 5. Workitem Status: [Data Agreements](https://github.com/decentralized-identity/data-agreement/issues)
     - Is proceeding based on how many PRs
     - further updates to follow
-7. Tracking: [Verifier Universal Interface (VUI)] 
+7. Tracking: _Verifier Universal Interface (VUI)_
     - Martin to update
 9. Workitem Status (DORMANT): [WACI-DIDComm](https://github.com/decentralized-identity/waci-didcomm/issues)
     - Unoffically offically have a draft 
@@ -159,7 +159,7 @@ Entire advanced-paper collection [here](https://github.com/WebOfTrustInfo/rwot11
         - Which issuers are trusted for which credentials 
         - Embed trust documents into larger frameworks 
     - Activly looking at other usecase to expand past 
-17. Workitem Status (Monthly): [JWT-VC Interoperability Profile](https://github.com/decentralized-identity/jwt-vc-presentation-profile/issues, https://identity.foundation/jwt-vc-presentation-profile/)
+17. Workitem Status (Monthly): [JWT-VC Interoperability Profile](https://github.com/decentralized-identity/jwt-vc-presentation-profile/issues)
     - Grinding down issues 
 19. New business 
 
@@ -180,7 +180,7 @@ Entire advanced-paper collection [here](https://github.com/WebOfTrustInfo/rwot11
     - Announce regular meeting interval as soon as the group is ready to start
 13. Workitem Status (weekly): [Trust Establishment](https://github.com/decentralized-identity/trust-establishment/issues)
     - Relation to Schema Directory Workitem.
-15. Workitem Status (Monthly): [JWT-VC Interoperability Profile](https://github.com/decentralized-identity/jwt-vc-presentation-profile/issues, https://identity.foundation/jwt-vc-presentation-profile/)
+15. Workitem Status (Monthly): [JWT-VC Interoperability Profile](https://github.com/decentralized-identity/jwt-vc-presentation-profile/issues)
     - 4-weekly workitem, async communication, next meeting 20/July/22 02:00 PM Eastern Time
     - Next meeting: 7/20.
     - Working towards a V1.
