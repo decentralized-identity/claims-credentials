@@ -40,7 +40,7 @@ Password: 880986,
 4. Workitem Status: [Data Agreements](https://github.com/decentralized-identity/data-agreement/issues)
 5. Tracking: [Verifier Universal Interface (VUI)] - first meeting as ongoing work item coming soon!
 6. Workitem Status (weekly): [Trust Establishment](https://github.com/decentralized-identity/trust-establishment/issues)
-7. Workitem Status (Monthly): [JWT-VC Interoperability Profile](https://github.com/decentralized-identity/jwt-vc-presentation-profile/issues, https://identity.foundation/jwt-vc-presentation-profile/)
+7. Workitem Status (Monthly): [JWT-VC Interoperability Profile](https://github.com/decentralized-identity/jwt-vc-presentation-profile/issues)
 8. Dormant and/or "paused" work
     - (v1; meetings paused) [WACI-DIDComm](https://identity.foundation/waci-didcomm/v1.0)
     - (v1; meetings paused) [VC-JWT & Friends](https://github.com/decentralized-identity/JWS-Test-Suite/issues)
