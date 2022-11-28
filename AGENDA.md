@@ -36,32 +36,110 @@ Password: 880986,
 ## Meeting Template
 1. Welcome and Introductions
 2. [WG Participation Tracking](https://docs.google.com/spreadsheets/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=0)
+4. Workitem Status: [PE](https://github.com/decentralized-identity/presentation-exchange/issues) (v2.0) + [Credential Manifest](https://github.com/decentralized-identity/credential-manifest/issues) (1pm ET Thu)
+    - Work Item Leads: *Brent Zundel* (@brentzundel) & Daniel Buchner (@csuwildcat)
+6. Workitem Status: [Data Agreements](https://github.com/decentralized-identity/data-agreement/issues)
+    - Work Item Leads: *Jan Lindquist* (@janlin) & José San Juan (@jose-gataca)
+7. Tracking: [Verifier Universal Interface (VUI)] - first meeting as ongoing work item coming soon!
+8. Workitem Status (weekly): [Trust Establishment](https://github.com/decentralized-identity/trust-establishment/issues)
+    - Work Item Leads: *Gabe Cohen (@decentralgabe)* & Mike Ebert (@mikekebert)
+9. Workitem Status (Monthly): [JWT-VC Interoperability Profile](https://github.com/decentralized-identity/jwt-vc-presentation-profile/issues, https://identity.foundation/jwt-vc-presentation-profile/)
+    - Work Item Leads: *Daniel McGrogan (@dtmcg)*, Kristina Yasuda (@Sakurann)
+11. Workitem Status (weekly) [Schema Directory](https://github.com/decentralized-identity/schema-directory/issues)
+    - Work Item Leads: *Daniel Buchner (@csuwildcat)* & Jack Couch (@JackSophtron)
+13. Dormant and/or "paused" work 
+    - (v1; meetings paused) [WACI-DIDComm](https://identity.foundation/waci-didcomm/v1.0)
+    - (v1; meetings paused) [VC-JWT & Friends](https://github.com/decentralized-identity/JWS-Test-Suite/issues)
+14. TPAC W3C DIDWG+VCWG update from Brent
+15. New business 
+
+## Meeting 25 October 2022 - (1300 ET)
+
+**Meeting was skipped due to low attendance**
+
+### Prepared Agenda
+1. Welcome and Introductions
+2. [WG Participation Tracking](https://docs.google.com/spreadsheets/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=0)
 3. Workitem Status: [PE](https://github.com/decentralized-identity/presentation-exchange/issues) (v2.0) + [Credential Manifest](https://github.com/decentralized-identity/credential-manifest/issues) (1pm ET Thu)
 4. Workitem Status: [Data Agreements](https://github.com/decentralized-identity/data-agreement/issues)
 5. Tracking: [Verifier Universal Interface (VUI)] - first meeting as ongoing work item coming soon!
 6. Workitem Status (weekly): [Trust Establishment](https://github.com/decentralized-identity/trust-establishment/issues)
-7. Workitem Status (Monthly): [JWT-VC Interoperability Profile](https://github.com/decentralized-identity/jwt-vc-presentation-profile/issues)
-8. Dormant and/or "paused" work
+7. Workitem Status (Monthly): [JWT-VC Interoperability Profile](https://github.com/decentralized-identity/jwt-vc-presentation-profile/issues, https://identity.foundation/jwt-vc-presentation-profile/)
+8. Workitem Status (weekly) [Schema Directory](https://github.com/decentralized-identity/schema-directory/issues)
+9. Dormant and/or "paused" work 
     - (v1; meetings paused) [WACI-DIDComm](https://identity.foundation/waci-didcomm/v1.0)
     - (v1; meetings paused) [VC-JWT & Friends](https://github.com/decentralized-identity/JWS-Test-Suite/issues)
-    - (are there meetings?) [Schema Directory](https://github.com/decentralized-identity/schema-directory/issues)
-9. TPAC W3C DIDWG+VCWG update from Brent
-10. New business 
+10. TPAC W3C DIDWG+VCWG update from Brent
+11. New business 
 
+## Meeting 11 November 2022 - (1300 ET)
+1. Welcome and Introductions
+2. [WG Participation Tracking](https://docs.google.com/spreadsheets/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=0)
+3. Workitem Status: [PE](https://github.com/decentralized-identity/presentation-exchange/issues) (v2.0) + [Credential Manifest](https://github.com/decentralized-identity/credential-manifest/issues) (1pm ET Thu)
+4. Workitem Status: [Data Agreements](https://github.com/decentralized-identity/data-agreement/issues)
+5. Tracking: [Verifier Universal Interface (VUI)] - first meeting as ongoing work item coming soon!
+6. Workitem Status (weekly): [Trust Establishment](https://github.com/decentralized-identity/trust-establishment/issues)
+7. Workitem Status (Monthly): [JWT-VC Interoperability Profile](https://github.com/decentralized-identity/jwt-vc-presentation-profile/issues, https://identity.foundation/jwt-vc-presentation-profile/)
+8. Workitem Status (weekly) [Schema Directory](https://github.com/decentralized-identity/schema-directory/issues)
+9. Dormant and/or "paused" work 
+    - (v1; meetings paused) [WACI-DIDComm](https://identity.foundation/waci-didcomm/v1.0)
+    - (v1; meetings paused) [VC-JWT & Friends](https://github.com/decentralized-identity/JWS-Test-Suite/issues)
+10. TPAC W3C DIDWG+VCWG update from Brent
+11. New business 
+
+## Meeting 11 October 2022 - (1300 ET)
+Posponed due to attendance 
+
+## Meeting 27 September 2022 - (1300 ET)
+1. Welcome and Introductions
+2. [WG Participation Tracking](https://docs.google.com/spreadsheets/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=0)
+3. Workitem Status: [PE](https://github.com/decentralized-identity/presentation-exchange/issues) (v2.0) + [Credential Manifest](https://github.com/decentralized-identity/credential-manifest/issues) (1pm ET Thu)
+    - Last two meetings did not take part.
+    - Credential Rendering is not a requirement for using PR. Daniel posted PR.
+5. Workitem Status: [Data Agreements](https://github.com/decentralized-identity/data-agreement/issues)
+    - Put in updates around the spec progress.
+7. Workitem Status (weekly): [Trust Establishment](https://github.com/decentralized-identity/trust-establishment/issues)
+    - Waiting for couple of contributions
+    - Sam Curran reaching out to ToIP to reuse elements. 
+9. Workitem Status (Monthly): [JWT-VC Interoperability Profile]( https://identity.foundation/jwt-vc-presentation-profile/)
+    - Triaging of existing issues.
+    - Assigned v1 blocking issues to responsible person.
+    - Fixed discrepency between profile and OIDP PE v2 dependency. Some implementers were implementing against PE v1.
+11. Workitem Status (weekly) [Schema Directory](https://github.com/decentralized-identity/schema-directory/issues)
+    - Kickoff meeting, hurrary!
+    - First website framework to go online to hold schemas.
+    - Write process outline to add schemas to the schema directory.
+13. Dormant and/or "paused" work 
+    - (v1; meetings paused) [WACI-DIDComm](https://identity.foundation/waci-didcomm/v1.0)
+    - (v1; meetings paused) [VC-JWT & Friends](https://github.com/decentralized-identity/JWS-Test-Suite/issues)
+    - (not started) [Verifier Universal Interface (VUI)]
+14. RWOT11, the Hague.
+    - Holder Binding for Credential Presentation Paper (Oliver)
+    - Trust Establishment Paper is happening (Juan referred to DIF)
+    - On-Chain credential revocation registry.
+16. New business 
+    
 ## Meeting 13 September 2022 - (1300 ET)
 1. Welcome and Introductions
 2. [WG Participation Tracking](https://docs.google.com/spreadsheets/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=0)
 3. Workitem Status: [PE](https://github.com/decentralized-identity/presentation-exchange/issues) (v2.0) + [Credential Manifest](https://github.com/decentralized-identity/credential-manifest/issues) (1pm ET Thu)
 4. Workitem Status: [Data Agreements](https://github.com/decentralized-identity/data-agreement/issues)
-5. Tracking: _Verifier Universal Interface (VUI)_ - first meeting as ongoing work item coming soon!
+5. Tracking: [Verifier Universal Interface (VUI)] - first meeting as ongoing work item coming soon!
 6. Workitem Status (weekly): [Trust Establishment](https://github.com/decentralized-identity/trust-establishment/issues)
-7. Workitem Status (Monthly): [JWT-VC Interoperability Profile](https://github.com/decentralized-identity/jwt-vc-presentation-profile/issues)
+7. Workitem Status (Monthly): [JWT-VC Interoperability Profile](https://github.com/decentralized-identity/jwt-vc-presentation-profile/issues, https://identity.foundation/jwt-vc-presentation-profile/)
 8. Dormant and/or "paused" work
     - (v1; meetings paused) [WACI-DIDComm](https://identity.foundation/waci-didcomm/v1.0)
     - (v1; meetings paused) [VC-JWT & Friends](https://github.com/decentralized-identity/JWS-Test-Suite/issues)
+        - VC WG has split out the specification into its on repo. Has a lot of activity in it. 
     - (are there meetings?) [Schema Directory](https://github.com/decentralized-identity/schema-directory/issues)
-9. TPAC W3C DIDWG+VCWG update from Brent
-10. New business 
+        - Not so domrmant 
+        - From next week 22nd weekly meeting 
+        - 9am PT
+        - Martin to send out email
+9. New business 
+    - Gabe going to TPAC
+        - Doing presentation on schemas will share out meeting notes when available 
+
 
 
 ## Rebooting the Web of Trust Advanced Paper Report
@@ -116,12 +194,12 @@ Entire advanced-paper collection [here](https://github.com/WebOfTrustInfo/rwot11
 - SC Version 2.0 Ready to Review.
 - CM another few weeks.
 5. Workitem Status: [Data Agreements](https://github.com/decentralized-identity/data-agreement/issues)
-6. Tracking: _Verifier Universal Interface (VUI)_
+6. Tracking: [Verifier Universal Interface (VUI)] 
 7. Workitem Status (DORMANT): [WACI-DIDComm](https://github.com/decentralized-identity/waci-didcomm/issues)
 8. Workitem Status (DORMANT): [VC-JWT & Friends](https://github.com/decentralized-identity/JWS-Test-Suite/issues)
 9. Workitem Status (no regular time set yet but check Slack channel): [Schema Directory](https://github.com/decentralized-identity/schema-directory/issues)
 10. Workitem Status (weekly): [Trust Establishment](https://github.com/decentralized-identity/trust-establishment/issues)
-11. Workitem Status (Monthly): [JWT-VC Interoperability Profile](https://github.com/decentralized-identity/jwt-vc-presentation-profile/issues)
+11. Workitem Status (Monthly): [JWT-VC Interoperability Profile](https://github.com/decentralized-identity/jwt-vc-presentation-profile/issues, https://identity.foundation/jwt-vc-presentation-profile/)
 12. New business
 13. No Biweekly Meeting on Working Group no Meeting Aug 16.
 
@@ -143,7 +221,7 @@ Entire advanced-paper collection [here](https://github.com/WebOfTrustInfo/rwot11
 5. Workitem Status: [Data Agreements](https://github.com/decentralized-identity/data-agreement/issues)
     - Is proceeding based on how many PRs
     - further updates to follow
-7. Tracking: _Verifier Universal Interface (VUI)_
+7. Tracking: [Verifier Universal Interface (VUI)] 
     - Martin to update
 9. Workitem Status (DORMANT): [WACI-DIDComm](https://github.com/decentralized-identity/waci-didcomm/issues)
     - Unoffically offically have a draft 
@@ -159,7 +237,7 @@ Entire advanced-paper collection [here](https://github.com/WebOfTrustInfo/rwot11
         - Which issuers are trusted for which credentials 
         - Embed trust documents into larger frameworks 
     - Activly looking at other usecase to expand past 
-17. Workitem Status (Monthly): [JWT-VC Interoperability Profile](https://github.com/decentralized-identity/jwt-vc-presentation-profile/issues)
+17. Workitem Status (Monthly): [JWT-VC Interoperability Profile](https://github.com/decentralized-identity/jwt-vc-presentation-profile/issues, https://identity.foundation/jwt-vc-presentation-profile/)
     - Grinding down issues 
 19. New business 
 
@@ -180,7 +258,7 @@ Entire advanced-paper collection [here](https://github.com/WebOfTrustInfo/rwot11
     - Announce regular meeting interval as soon as the group is ready to start
 13. Workitem Status (weekly): [Trust Establishment](https://github.com/decentralized-identity/trust-establishment/issues)
     - Relation to Schema Directory Workitem.
-15. Workitem Status (Monthly): [JWT-VC Interoperability Profile](https://github.com/decentralized-identity/jwt-vc-presentation-profile/issues)
+15. Workitem Status (Monthly): [JWT-VC Interoperability Profile](https://github.com/decentralized-identity/jwt-vc-presentation-profile/issues, https://identity.foundation/jwt-vc-presentation-profile/)
     - 4-weekly workitem, async communication, next meeting 20/July/22 02:00 PM Eastern Time
     - Next meeting: 7/20.
     - Working towards a V1.
