@@ -33,27 +33,75 @@ Password: 880986,
 
 </details>
 
-## Meeting Template
+
+## Meeting Template 
 1. Welcome and Introductions
 2. [WG Participation Tracking](https://docs.google.com/spreadsheets/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=0)
-4. Workitem Status: [PE](https://github.com/decentralized-identity/presentation-exchange/issues) (v2.0) + [Credential Manifest](https://github.com/decentralized-identity/credential-manifest/issues) (1pm ET Thu)
+3. Workitem Status: [PE](https://github.com/decentralized-identity/presentation-exchange/issues) (v2.0) + [Credential Manifest](https://github.com/decentralized-identity/credential-manifest/issues) (1pm ET Thu)
     - Work Item Leads: *Brent Zundel* (@brentzundel) & Daniel Buchner (@csuwildcat)
-6. Workitem Status: [Data Agreements](https://github.com/decentralized-identity/data-agreement/issues)
+4. Workitem Status: [Data Agreements](https://github.com/decentralized-identity/data-agreement/issues)
     - Work Item Leads: *Jan Lindquist* (@janlin) & José San Juan (@jose-gataca)
-7. Tracking: [Verifier Universal Interface (VUI)] - first meeting as ongoing work item coming soon!
-8. Workitem Status (weekly): [Trust Establishment](https://github.com/decentralized-identity/trust-establishment/issues)
+5. Workitem Status (weekly): [Trust Establishment](https://github.com/decentralized-identity/trust-establishment/issues)
     - Work Item Leads: *Gabe Cohen (@decentralgabe)* & Mike Ebert (@mikekebert)
-9. Workitem Status (Monthly): [JWT-VC Interoperability Profile](https://github.com/decentralized-identity/jwt-vc-presentation-profile/issues, https://identity.foundation/jwt-vc-presentation-profile/)
-    - Work Item Leads: *Daniel McGrogan (@dtmcg)*, Kristina Yasuda (@Sakurann)
-11. Workitem Status (weekly) [Schema Directory](https://github.com/decentralized-identity/schema-directory/issues)
+6. Workitem Status (Monthly): [JWT-VC Interoperability Profile](https://github.com/decentralized-identity/jwt-vc-presentation-profile/issues, https://identity.foundation/jwt-vc-presentation-profile/)
+    - Work Item Leads: *Daniel McGrogan (@dtmcg)*, Kristina Yasuda (@Sakurann), Jeremie Miller (@quartzjer)
+7. Workitem Status (weekly) [Schema Directory](https://github.com/decentralized-identity/schema-directory/issues)
     - Work Item Leads: *Daniel Buchner (@csuwildcat)* & Jack Couch (@JackSophtron)
-13. Dormant and/or "paused" work 
+9. Dormant and/or "paused" work 
     - (v1; meetings paused) [WACI-DIDComm](https://identity.foundation/waci-didcomm/v1.0)
     - (v1; meetings paused) [VC-JWT & Friends](https://github.com/decentralized-identity/JWS-Test-Suite/issues)
-14. TPAC W3C DIDWG+VCWG update from Brent
-15. New business 
+    - (transitioned, non started) [Verifier Universal Interface (VUI)]()
+10 Current events (CCG mailing list, VCWG, OWF, OIDF, etc)
+11. New business
 
-## Meeting 25 October 2022 - (1300 ET)
+## Meeting 6 December 2022 - (1300 ET)
+1. Welcome and Introductions
+2. [WG Participation Tracking](https://docs.google.com/spreadsheets/d/12hFa574v5PRrKfzIKMgDTjxuU6lvtBhrmLspfKkN4oE/edit#gid=0)
+3. Workitem Status: [PE](https://github.com/decentralized-identity/presentation-exchange/issues) (v2.0) + [Credential Manifest](https://github.com/decentralized-identity/credential-manifest/issues) (1pm ET Thu)
+    - Work Item Leads: *Brent Zundel* (@brentzundel) & Daniel Buchner (@csuwildcat)
+    - Credential Manifest moving forward (Issues in Repository were triaged) -> Release for 1.0
+    - Presentation exchange v2.0 is out.
+    - No direct plans for v3.0. In the new year focus on documenation, implementation guides, etc
+4. Workitem Status: [Wallet Rendering](https://github.com/decentralized-identity/wallet-rendering):
+    - Credential Manifest points to Wallet Rendering specification (but no hard dependency).
+    - Acknowledged requirement for Credential Manifest.
+    - Interest from Block (from 2023).
+    - Create Workitem description. (in 2023), Ownership, Times, Prior Art.
+5. Workitem Status: [Data Agreements](https://github.com/decentralized-identity/data-agreement/issues)
+    - Work Item Leads: *Jan Lindquist* (@janlin) & José San Juan (@jose-gataca)
+    - Presentations around Prior Art.
+    - The Group's [running notes](https://docs.google.com/document/d/14p2Pc5jC_qvwmCs9X5CrydUjSS5YRZKbay7oqre3oZI/edit) are very thorough!
+6. Workitem Status (weekly): [Trust Establishment](https://github.com/decentralized-identity/trust-establishment/issues)
+    - Work Item Leads: *Gabe Cohen (@decentralgabe)* & Mike Ebert (@mikekebert)
+    - Submitted for Workgroup approval (Integration of Feedback from Juan)
+    - Focus to cut a draft version
+        - https://github.com/decentralized-identity/trust-establishment/pull/38
+        - call for review 
+7. Workitem Status (Monthly): [JWT-VC Interoperability Profile](https://github.com/decentralized-identity/jwt-vc-presentation-profile/issues, https://identity.foundation/jwt-vc-presentation-profile/)
+    - Work Item Leads: *Daniel McGrogan (@dtmcg)*, Kristina Yasuda (@Sakurann), Jeremie Miller (@quartzjer)
+    - PR for v0.1.0 is up (that points to the dependend legacy specification like PE (1.0))
+        - https://github.com/decentralized-identity/jwt-vc-presentation-profile/pull/75
+    - Latest draft will then utilize and point to newer specifications of, PE, SIOP, ...
+8. Workitem Status (weekly) [Schema Directory](https://github.com/decentralized-identity/schema-directory/issues)
+    - Work Item Leads: *Daniel Buchner (@csuwildcat)* & Jack Couch (@JackSophtron) & Martin Riedel (@rado0x54)
+    - Last meeting was chat only.
+    - Waiting for the following deliverables:
+        - Process definition for adding Schemas to the registry (@rado0x54)
+        - Use the data registry template as the creator has wished for :)
+9. Dormant and/or "paused" work 
+    - (v1; meetings paused) [WACI-DIDComm](https://identity.foundation/waci-didcomm/v1.0)
+    - (v1; meetings paused) [VC-JWT & Friends](https://github.com/decentralized-identity/JWS-Test-Suite/issues)
+    - (transitioned, non started) [Verifier Universal Interface (VUI)]()
+10 Current events (CCG mailing list, VCWG, OWF, OIDF, etc)
+    - Optional "@context" Thread
+    - Holder Binding Thread ("Subject is represented by X, but can bind itself to Y during presentation of VC C")\
+    - DID Methods with threshold signatures
+11. New business 
+    - [new CCG spec for multisig](https://github.com/w3c-ccg/verifiable-conditions)
+    - [VCWG thread on unorthodox verification methods and "prover" role](https://github.com/w3c/vc-data-model/issues/902)
+    - [holder-binding tag](https://github.com/w3c/vc-data-model/labels/holder-binding) - currently 10 separate issues!
+
+## Meeting 25 November 2022 - (1300 ET)
 
 **Meeting was skipped due to low attendance**
 
