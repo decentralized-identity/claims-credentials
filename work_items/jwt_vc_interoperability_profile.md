@@ -5,9 +5,9 @@ that has made specific choices within the standards composing a Verifiable Crede
 which implementers, decision-makers and architects can refer to.
 
 ## Work Item Owners
-- Daniel McGrogan, Workday (@dtmcg)
-- Jeremie Miller, Ping Identity (@quartzjer)
+- David Waite, Ping Identity (@dwaite)
 - Kristina Yasuda, Microsoft (@Sakurann)
+- Brent Zundel, Gen Digital (@brentzundel)
 
 ## Repositories
 - [jwt-vc-presentation-profile](https://github.com/decentralized-identity/jwt-vc-presentation-profile)
