@@ -3,7 +3,7 @@
 This work item proposes to develop and publish credential schemas to support interoperability in decentralized identity ecosystems. This work item strives to attract an interdisciplinary group of experts to ensure use case fit and acceptance.
 
 ## Work Item Owners
-- Otto Mora (@github, email@example.com, or both)
+- Otto Mora (@ottomorac)
 - TODO
 
 ## Outcome
