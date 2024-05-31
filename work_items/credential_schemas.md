@@ -10,6 +10,8 @@ This work item proposes to develop and publish credential schemas to support int
 **When your work item is successful, then what will have changed in the world? What
 will we be able to do that wasn't possible do before or vice versa?**
 
+Identify standardized credential schemas for a variety of use cases including: Basic KYC, AML, Proof of Humanity, and Proof of Age among others.
+
 ## Deliverables
 - **Does your work item have any deliverables? These include code projects,
   standards-track specifications, reports, registries, summaries, blog posts,
